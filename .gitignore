@@ -1,5 +1,7 @@
 
 .DS_Store
 /preprocess/raw_data/
+/preprocess/clean_data/
 /patient_tracker/patient_notes/
 
+preprocess/scripts/.ipynb_checkpoints/
