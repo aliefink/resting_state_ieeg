@@ -12,7 +12,6 @@ LaCas7,Unknown,-20.35844421,36.79525381,27.5844574,-21.07772956,37.01464052,15.8
 LaCas8,A9/46d_L,-21.95518494,37.19520223,32.38175488,-22.93768298,38.74772667,21.32695286,White,Left Cerebral White Matter,Unknown,L Middle Frontal Gyrus,L MFG,Unknown,Left middle frontal gyrus 2 A,
 LaCas9,A9/46d_L,-23.95111084,37.99509907,36.77927756,-25.24446884,40.76948498,26.19903631,White,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 2 A,,
 LAgIT1,rHipp_L,-23.15274048,6.799122453,-10.39414763,-22.47028998,-6.366428323,-19.65530816,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,
-LAgIT10,Unknown,-66.66392517,1.999741435,-13.99212074,-71.08834159,-10.76649859,-24.1200244,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,
 LAgIT2,rHipp_L,-27.94296265,5.999225616,-10.79392242,-27.65462862,-7.225541556,-19.75525023,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,
 LAgIT3,lAmyg_L,-32.73318481,5.599277198,-11.19369721,-32.95503099,-7.566912765,-19.9920704,Gray,Left Cerebral White Matter,CA1 (Hippocampus),L Hippocampus,L Amyg,Unknown,Left amygdala superior ,border
 LAgIT4,Unknown,-37.92259216,4.799380362,-11.593472,-38.92955059,-8.333618475,-20.239207,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
@@ -20,7 +19,6 @@ LAgIT5,Unknown,-43.11199951,4.399431944,-11.99324679,-44.85270115,-8.621618067,-
 LAgIT6,aSTS_L,-47.90222168,3.599535108,-12.39302158,-50.26602557,-9.341456822,-21.34218533,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus A,WM,
 LAgIT7,A21r_L,-52.69244385,3.199586689,-13.19257116,-55.61163932,-9.827594199,-22.66732561,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus A,,
 LAgIT8,A21r_L,-57.8818512,2.399689853,-13.59234595,-61.44057106,-10.58104113,-23.3612268,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus B,,
-LAgIT9,A21c_L,-62.67207336,1.999741435,-13.59234595,-66.75640438,-10.79768347,-23.49414387,Unknown,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus A,OOB,
 LHpIT1,rHipp_L,-23.95111084,-4.399433255,-13.59234595,-23.78528038,-18.88227373,-20.14193982,Gray,Left Hippocampus,Subiculum,L Hippocampus,L Hipp,Left hippocampus pes,,subiculum
 LHpIT10,Unknown,-67.06311035,-16.3978858,-5.996624947,-72.0343863,-28.01902501,-10.11406681,Unknown,Unknown,Unknown,Unknown,Unknown,Left superior middle temporal gyrus C,OOB,
 LHpIT2,cHipp_L,-28.74133301,-5.59927851,-12.39302158,-29.21029733,-19.68960179,-18.31268539,Gray,Left Hippocampus,DG (Hippocampus),L Hippocampus,L Hipp,Left hippocampus pes,,CA1
