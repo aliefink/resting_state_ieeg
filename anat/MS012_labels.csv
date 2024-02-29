@@ -1,4 +1,4 @@
-﻿label,BN246label,x,y,z,mni_x,mni_y,mni_z,gm,NMM,Anat,AnatMacro,BN246,YBA_1,Manual Examination,Notes
+label,BN246label,x,y,z,mni_x,mni_y,mni_z,gm,NMM,Anat,AnatMacro,BN246,YBA_1,Manual Examination,Notes
 RaCaS1,A24rv_R,2.21384716,40.5554222,-7.5923647,4.00029874,31.5898381,-7.0866478,Gray,Right ACgG anterior cingulate gyrus,Area s24,R ACC,R CG,Right cingulate gyrus D,,
 RaCaS10,A9l_R,12.6085992,57.3369737,29.9698867,15.4949256,46.6224204,42.0645513,Gray,Right SFG superior frontal gyrus,Unknown,R Superior Frontal Gyrus,R SFG,Right superior frontal gyrus 2 C,,
 RaCaS2,A24rv_R,3.41324162,42.1536652,-3.5963805,5.19364742,33.1358575,-1.7538661,Gray,Right ACgG anterior cingulate gyrus,Area 33,R ACC,R CG,Right cingulate gyrus D,,
@@ -103,4 +103,3 @@ RplS16,G_R,30.5995162,-10.987915,7.1927768,34.9401509,-24.533599,5.78872857,Gray
 RplS17,Unknown,30.199718,-14.983522,10.7891626,34.6885923,-29.067621,9.71846119,White,Right Cerebral White Matter,Area TE 11,R Superior Temporal Gyrus,Unknown,Right superior temporal gyrus E,WM,
 RplS18,Unknown,29.7999198,-18.979129,14.3855484,34.2266534,-33.595343,13.6081306,White,Right Cerebral White Matter,Area TE 11,Unknown,Unknown,Right superior temporal gyrus F,WM,
 RplS19,Unknown,29.0003235,-22.974737,18.3815325,33.3010223,-38.064898,17.9719627,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-,,,,,,,,,,,,,,,
