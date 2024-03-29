@@ -1,0 +1,1122 @@
+,subj_id,reref_ch_name,hemi,anode,cathode,anode_loc,cathode_loc,anode_roi,cathode_roi
+0,MS001,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left cingulate gyrus e,acc,acc
+1,MS001,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+2,MS001,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,wm,acc,
+4,MS001,lacas5-lacas6,left,lacas5,lacas6,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+5,MS001,lacas6-lacas9,left,lacas6,lacas9,left frontal pole 4 a,wm,vmpfc,
+6,MS001,lagit1-lagit2,left,lagit1,lagit2,left amygdala inferior,left amygdala inferior,amy,amy
+7,MS001,lagit2-lagit3,left,lagit2,lagit3,left amygdala inferior,left amygdala inferior,amy,amy
+8,MS001,lagit3-lagit4,left,lagit3,lagit4,left amygdala inferior,left amygdala inferior,amy,amy
+9,MS001,lagit4-lagit5,left,lagit4,lagit5,left amygdala inferior,wm,amy,
+11,MS001,lagit8-lagit9,left,lagit8,lagit9,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+12,MS001,lhplt1-lhplt2,left,lhplt1,lhplt2,left parahippocampal gyrus c,left superior middle temporal gyrus d,phg,sts
+13,MS001,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus pes,hpc,hpc
+14,MS001,lhplt3-lhplt4,left,lhplt3,lhplt4,left hippocampus pes,left hippocampus pes,hpc,hpc
+15,MS001,lhplt4-lhplt6,left,lhplt4,lhplt6,left hippocampus body,left hippocampus body,hpc,hpc
+17,MS001,lhplt7-lhplt8,left,lhplt7,lhplt8,left superior middle temporal gyrus c,left superior middle temporal gyrus c,sts,sts
+18,MS001,lhplt8-lhplt9,left,lhplt8,lhplt9,left superior middle temporal gyrus d,left superior middle temporal gyrus d,sts,sts
+19,MS001,lhplt9-lhplt10,left,lhplt9,lhplt10,left inferior middle temporal gyrus d,left inferior middle temporal gyrus d,,
+20,MS001,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus i,left cingulate gyrus i,acc,acc
+21,MS001,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus i,left superior frontal gyrus 4 a,acc,dmpfc
+22,MS001,lmcms3-lmcms4,left,lmcms3,lmcms4,left superior frontal gyrus 4 a,wm,dmpfc,
+24,MS001,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal pole 1 a,left anterior pars triangularis b,ofc,vlpfc
+28,MS001,lmolf8-lmolf9,left,lmolf8,lmolf9,left pars orbitalis c,left pars orbitalis c,ofc,ofc
+29,MS001,lmolf9-lmolf10,left,lmolf9,lmolf10,left anterior pars triangularis b,left anterior pars triangularis b,vlpfc,vlpfc
+30,MS001,lmtpt1-lmtpt2,left,lmtpt1,lmtpt2,left medial occipitotemporal gyrus e,left medial occipitotemporal gyrus e,,
+31,MS001,lmtpt2-lmtpt3,left,lmtpt2,lmtpt3,left medial occipitotemporal gyrus e,wm,,
+33,MS001,lmtpt7-lmtpt8,left,lmtpt7,lmtpt8,left inferior middle temporal gyrus f,left inferior middle temporal gyrus f,,
+34,MS001,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right middle frontal gyrus 3 b,acc,dlpfc
+36,MS001,racas4-racas5,right,racas4,racas5,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+37,MS001,racas5-racas7,right,racas5,racas7,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+39,MS001,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 3 a,right middle frontal gyrus 3 a,dlpfc,dlpfc
+40,MS001,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+41,MS001,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,right amygdala inferior,amy,amy
+42,MS001,ragit3-ragit4,right,ragit3,ragit4,right amygdala inferior,wm,amy,
+43,MS001,rhplt1-rhplt5,right,rhplt1,rhplt5,right hippocampus pes,wm,hpc,
+45,MS001,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus g,right cingulate gyrus h,acc,acc
+46,MS001,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus h,right superior frontal gyrus 3 a,acc,dmpfc
+47,MS001,rmcms3-rmcms4,right,rmcms3,rmcms4,right superior frontal gyrus 3 a,right superior frontal gyrus 3 a,dmpfc,dmpfc
+48,MS001,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 3 a,wm,dmpfc,
+50,MS001,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal pole 1 b,right middle pars triangularis b,vmpfc,vlpfc
+51,MS001,rmolf3-rmolf4,right,rmolf3,rmolf4,right middle pars triangularis b,right middle pars triangularis a,vlpfc,vlpfc
+53,MS001,rmolf5-rmolf8,right,rmolf5,rmolf8,right frontal orbital 5 c,right frontal orbital 5 c,ofc,ofc
+55,MS001,rmolf9-rmolf10,right,rmolf9,rmolf10,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+58,MS001,rmtpt6-rmtpt7,right,rmtpt6,rmtpt7,right inferior middle temporal gyrus e,wm,,
+60,MS001,rmtpt8-rmtpt9,right,rmtpt8,rmtpt9,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+0,MS003,lacas1-lacas2,left,lacas1,lacas2,left frontal pole 1 b,left superior frontal gyrus 1 b,vmpfc,dmpfc
+1,MS003,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+2,MS003,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+3,MS003,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+4,MS003,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+6,MS003,lacas7-lacas8,left,lacas7,lacas8,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+8,MS003,lacas9-lacas10,left,lacas9,lacas10,left superior frontal gyrus 1 b,left superior frontal gyrus 1 b,dmpfc,dmpfc
+9,MS003,laglt1-laglt2,left,laglt1,laglt2,left amygdala inferior,left amygdala inferior,amy,amy
+10,MS003,laglt2-laglt3,left,laglt2,laglt3,left amygdala inferior,left amygdala inferior,amy,amy
+11,MS003,laglt3-laglt4,left,laglt3,laglt4,left amygdala inferior,wm,amy,
+13,MS003,laglt8-laglt9,left,laglt8,laglt9,left inferior middle temporal gyrus a,left inferior middle temporal gyrus a,,
+14,MS003,laimm1-laimm2,left,laimm1,laimm2,left middle short insular gyrus c,left middle frontal gyrus 4 b,ains,dlpfc
+16,MS003,laimm3-laimm4,left,laimm3,laimm4,left anterior short insular gyrus b,wm,ains,
+18,MS003,laimm5-laimm6,left,laimm5,laimm6,left anterior short insular gyrus a,left pars opercularis c,ains,vlpfc
+19,MS003,laimm10-laimm11,left,laimm10,laimm11,left pars opercularis c,wm,vlpfc,
+20,MS003,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+21,MS003,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,wm,hpc,
+23,MS003,lhplt6-lhplt7,left,lhplt6,lhplt7,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+24,MS003,lhplt7-lhplt8,left,lhplt7,lhplt8,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+26,MS003,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus j,left superior frontal gyrus 5 a,acc,dmpfc
+27,MS003,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 5 a,wm,dmpfc,
+30,MS003,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 4 c,left frontal orbital 4 d,ofc,ofc
+31,MS003,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+32,MS003,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 4 d,left pars orbitalis b,ofc,ofc
+33,MS003,lmolf5-lmolf6,left,lmolf5,lmolf6,left pars orbitalis b,wm,ofc,
+35,MS003,lmolf7-lmolf8,left,lmolf7,lmolf8,left pars orbitalis b,left pars orbitalis b,ofc,ofc
+37,MS003,lsifo2-lsifo3,left,lsifo2,lsifo3,left posterior short insular gyrus a,wm,pins,
+39,MS003,racas1-racas2,right,racas1,racas2,right frontal pole 1 c,right superior frontal gyrus 2 c,vmpfc,dmpfc
+40,MS003,racas2-racas3,right,racas2,racas3,right superior frontal gyrus 2 c,right superior frontal gyrus 2 d,dmpfc,dmpfc
+41,MS003,racas3-racas4,right,racas3,racas4,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+42,MS003,racas4-racas5,right,racas4,racas5,right cingulate gyrus e,right cingulate gyrus e,acc,acc
+43,MS003,racas5-racas6,right,racas5,racas6,right cingulate gyrus e,right cingulate gyrus e,acc,acc
+44,MS003,racas6-racas7,right,racas6,racas7,right cingulate gyrus f,right cingulate gyrus f,acc,acc
+46,MS003,racas8-racas9,right,racas8,racas9,right superior frontal gyrus 1 a,right superior frontal gyrus 1 a,dmpfc,dmpfc
+47,MS003,racas9-racas10,right,racas9,racas10,right superior frontal gyrus 1 a,right superior frontal gyrus 1 a,dmpfc,dmpfc
+49,MS003,raglt1-raglt2,right,raglt1,raglt2,right amygdala superior,right amygdala superior,amy,amy
+50,MS003,raglt2-raglt3,right,raglt2,raglt3,right amygdala superior,right amygdala superior,amy,amy
+51,MS003,raglt3-raglt4,right,raglt3,raglt4,right amygdala superior,wm,amy,
+53,MS003,raglt6-raglt7,right,raglt6,raglt7,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+54,MS003,raglt7-raglt8,right,raglt7,raglt8,right superior middle temporal gyrus a,wm,sts,
+56,MS003,raimm1-raimm2,right,raimm1,raimm2,right middle short insular gyrus c,right middle frontal gyrus 5 b,ains,dlpfc
+57,MS003,raimm2-raimm3,right,raimm2,raimm3,right middle frontal gyrus 5 b,right middle frontal gyrus 5 b,dlpfc,dlpfc
+58,MS003,raimm3-raimm4,right,raimm3,raimm4,right middle frontal gyrus 5 b,wm,dlpfc,
+60,MS003,raimm5-raimm6,right,raimm5,raimm6,right middle short insular gyrus b,right middle short insular gyrus b,ains,ains
+61,MS003,raimm6-raimm7,right,raimm6,raimm7,right middle short insular gyrus b,right middle short insular gyrus b,ains,ains
+62,MS003,raimm8-raimm9,right,raimm8,raimm9,right middle short insular gyrus a,right middle short insular gyrus a,ains,ains
+63,MS003,raimm9-raimm10,right,raimm9,raimm10,right pars opercularis c,right pars opercularis c,vlpfc,vlpfc
+64,MS003,raimm10-raimm11,right,raimm10,raimm11,right pars opercularis c,right pars opercularis c,vlpfc,vlpfc
+66,MS003,raimm12-raimm13,right,raimm12,raimm13,right middle frontal gyrus 5 b,right middle frontal gyrus 5 b,dlpfc,dlpfc
+67,MS003,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+68,MS003,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,wm,hpc,
+69,MS003,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus i,wm,acc,
+71,MS003,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus i,right superior frontal gyrus 4 a,acc,dmpfc
+72,MS003,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 4 a,wm,dmpfc,
+74,MS003,rmcms8-rmcms9,right,rmcms8,rmcms9,right superior frontal gyrus 5 d,right superior frontal gyrus 5 d,dmpfc,dmpfc
+75,MS003,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 5 a,wm,ofc,
+77,MS003,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 4 c,wm,ofc,
+79,MS003,rsifo2-rsifo3,right,rsifo2,rsifo3,right posterior short insular gyrus a,right somatosensory m,pins,
+80,MS003,rsifo3-rsifo4,right,rsifo3,rsifo4,right somatosensory m,right somatosensory m,,
+81,MS003,rsifo4-rsifo5,right,rsifo4,rsifo5,right somatosensory m,wm,,
+0,MS006,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left superior frontal gyrus 3 c,acc,dmpfc
+1,MS006,lacas2-lacas3,left,lacas2,lacas3,left superior frontal gyrus 3 c,left superior frontal gyrus 3 c,dmpfc,dmpfc
+2,MS006,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+3,MS006,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+4,MS006,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+5,MS006,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+6,MS006,lacas7-lacas8,left,lacas7,lacas8,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+8,MS006,lacas9-lacas10,left,lacas9,lacas10,left superior frontal gyrus 2 a,left superior frontal gyrus 2 a,dmpfc,dmpfc
+10,MS006,laglt1-laglt2,left,laglt1,laglt2,left amygdala inferior,left amygdala inferior,amy,amy
+11,MS006,laglt2-laglt3,left,laglt2,laglt3,left amygdala inferior,left amygdala inferior,amy,amy
+12,MS006,laglt3-laglt4,left,laglt3,laglt4,left amygdala inferior,wm,amy,
+14,MS006,laglt5-laglt6,left,laglt5,laglt6,left superior temporal gyrus a,wm,temporal,
+16,MS006,laglt7-laglt8,left,laglt7,laglt8,left superior temporal gyrus b,left superior temporal gyrus b,temporal,temporal
+17,MS006,laglt8-laglt9,left,laglt8,laglt9,left superior temporal gyrus b,left superior middle temporal gyrus a,temporal,sts
+18,MS006,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+19,MS006,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus pes,hpc,hpc
+20,MS006,lhplt3-lhplt4,left,lhplt3,lhplt4,left hippocampus pes,wm,hpc,
+22,MS006,lhplt6-lhplt7,left,lhplt6,lhplt7,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+23,MS006,lhplt7-lhplt8,left,lhplt7,lhplt8,left inferior middle temporal gyrus b,left lateral inferior temporal gyrus b,,
+25,MS006,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus j,wm,acc,
+27,MS006,lmcms7-lmcms8,left,lmcms7,lmcms8,left superior frontal gyrus 5 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+28,MS006,lmcms8-lmcms9,left,lmcms8,lmcms9,left superior frontal gyrus 5 d,left superior frontal gyrus 6 d,dmpfc,dmpfc
+29,MS006,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 4 c,wm,ofc,
+31,MS006,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 4 d,wm,ofc,
+33,MS006,lmtpt1-lmtpt2,left,lmtpt1,lmtpt2,left inferior occipital gyrus a,left superior middle temporal gyrus f,,sts
+35,MS006,lmtpt3-lmtpt4,left,lmtpt3,lmtpt4,left lingual gyrus a,left lingual gyrus a,,
+37,MS006,lmtpt7-lmtpt8,left,lmtpt7,lmtpt8,left inferior middle temporal gyrus f,left inferior middle temporal gyrus f,,
+39,MS006,lmtpt9-lmtpt10,left,lmtpt9,lmtpt10,left superior middle temporal gyrus f,left superior middle temporal gyrus f,sts,sts
+40,MS006,racas1-racas2,right,racas1,racas2,right cingulate gyrus c,right cingulate gyrus c,acc,acc
+41,MS006,racas2-racas3,right,racas2,racas3,right cingulate gyrus c,wm,acc,
+43,MS006,racas5-racas6,right,racas5,racas6,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+44,MS006,racas6-racas7,right,racas6,racas7,right cingulate gyrus g,right superior frontal gyrus 2 a,acc,dmpfc
+45,MS006,racas7-racas8,right,racas7,racas8,right superior frontal gyrus 2 a,right superior frontal gyrus 2 a,dmpfc,dmpfc
+46,MS006,racas8-racas9,right,racas8,racas9,right superior frontal gyrus 2 a,wm,dmpfc,
+47,MS006,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+48,MS006,rhplt2-rhplt4,right,rhplt2,rhplt4,right hippocampus pes,right hippocampus pes,hpc,hpc
+49,MS006,rhplt4-rhplt5,right,rhplt4,rhplt5,right hippocampus pes,wm,hpc,
+51,MS006,rhplt6-rhplt7,right,rhplt6,rhplt7,right inferior middle temporal gyrus b,right inferior middle temporal gyrus b,,
+52,MS006,rhplt7-rhplt8,right,rhplt7,rhplt8,right inferior middle temporal gyrus b,right inferior middle temporal gyrus b,,
+53,MS006,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus j,right cingulate gyrus j,acc,acc
+54,MS006,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus j,right superior frontal gyrus 5 a,acc,dmpfc
+55,MS006,rmcms3-rmcms4,right,rmcms3,rmcms4,right superior frontal gyrus 5 a,right superior frontal gyrus 5 a,dmpfc,dmpfc
+56,MS006,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 5 a,wm,dmpfc,
+58,MS006,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 5 d,wm,dmpfc,
+60,MS006,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 4 c,right frontal orbital 4 d,ofc,ofc
+61,MS006,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+62,MS006,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 4 d,wm,ofc,
+64,MS006,rmolf7-rmolf8,right,rmolf7,rmolf8,right frontal orbital 4 d,wm,ofc,
+66,MS006,rmtpt1-rmtpt3,right,rmtpt1,rmtpt3,right parahippocampal gyrus g,right parahippocampal gyrus g,phg,phg
+67,MS006,rmtpt3-rmtpt4,right,rmtpt3,rmtpt4,right parahippocampal gyrus g,right parahippocampal gyrus g,phg,phg
+68,MS006,rmtpt4-rmtpt6,right,rmtpt4,rmtpt6,right parahippocampal gyrus g,wm,phg,
+70,MS006,rmtpt7-rmtpt8,right,rmtpt7,rmtpt8,right inferior middle temporal gyrus f,wm,,
+0,MS007,lacas1-lacas2,left,lacas1,lacas2,left frontal pole 1 c,left superior frontal gyrus 2 c,vmpfc,dmpfc
+1,MS007,lacas2-lacas3,left,lacas2,lacas3,left superior frontal gyrus 2 c,wm,dmpfc,
+3,MS007,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+4,MS007,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+5,MS007,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+6,MS007,lacas7-lacas8,left,lacas7,lacas8,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+7,MS007,lacas9-lacas10,left,lacas9,lacas10,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+8,MS007,lacas10-lacas11,left,lacas10,lacas11,left superior frontal gyrus 1 a,left superior frontal gyrus 1 a,dmpfc,dmpfc
+10,MS007,laglt1-laglt2,left,laglt1,laglt2,left parahippocampal gyrus b,left superior middle temporal gyrus b,phg,sts
+11,MS007,laglt2-laglt3,left,laglt2,laglt3,left amygdala inferior,left amygdala inferior,amy,amy
+12,MS007,laglt3-laglt4,left,laglt3,laglt4,left amygdala inferior,left amygdala inferior,amy,amy
+14,MS007,laglt7-laglt8,left,laglt7,laglt8,left superior middle temporal gyrus a,left superior middle temporal gyrus a,sts,sts
+15,MS007,laglt8-laglt9,left,laglt8,laglt9,left superior middle temporal gyrus a,left superior middle temporal gyrus a,sts,sts
+16,MS007,laglt9-laglt10,left,laglt9,laglt10,left superior middle temporal gyrus a,left superior middle temporal gyrus a,sts,sts
+17,MS007,laimm1-laimm2,left,laimm1,laimm2,left posterior short insular gyrus c,left superior frontal gyrus 4 d,pins,dmpfc
+19,MS007,laimm3-laimm4,left,laimm3,laimm4,left middle short insular gyrus b,left middle short insular gyrus b,ains,ains
+20,MS007,laimm4-laimm5,left,laimm4,laimm5,left middle short insular gyrus b,left pars opercularis c,ains,vlpfc
+21,MS007,laimm5-laimm6,left,laimm5,laimm6,left pars opercularis c,left pars opercularis c,vlpfc,vlpfc
+22,MS007,laimm6-laimm7,left,laimm6,laimm7,left pars opercularis c,wm,vlpfc,
+24,MS007,laimm12-laimm13,left,laimm12,laimm13,left middle frontal gyrus 4 b,wm,dlpfc,
+25,MS007,lcmfo1-lcmfo2,left,lcmfo1,lcmfo2,left thalamus,left somatosensory j,,
+27,MS007,lcmfo3-lcmfo4,left,lcmfo3,lcmfo4,left somatosensory j,left thalamus,,
+28,MS007,lcmfo7-lcmfo8,left,lcmfo7,lcmfo8,left thalamus,left thalamus,,
+29,MS007,lcmfo8-lcmfo9,left,lcmfo8,lcmfo9,left thalamus,wm,,
+31,MS007,lcmfo12-lcmfo13,left,lcmfo12,lcmfo13,left somatosensory m,wm,,
+32,MS007,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left superior middle temporal gyrus c,hpc,sts
+33,MS007,lhplt2-lhplt4,left,lhplt2,lhplt4,left hippocampus pes,left hippocampus pes,hpc,hpc
+34,MS007,lhplt4-lhplt5,left,lhplt4,lhplt5,left hippocampus body,left hippocampus body,hpc,hpc
+36,MS007,lhplt9-lhplt10,left,lhplt9,lhplt10,left superior middle temporal gyrus c,left superior middle temporal gyrus c,sts,sts
+38,MS007,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus k,left superior frontal gyrus 6 a,mcc,dmpfc
+39,MS007,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 6 a,wm,dmpfc,
+41,MS007,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 3 c,left frontal orbital 3 d,ofc,ofc
+42,MS007,lmolf3-lmolf5,left,lmolf3,lmolf5,left frontal orbital 3 d,wm,ofc,
+43,MS007,lmtpt1-lmtpt2,left,lmtpt1,lmtpt2,left medial occipitotemporal gyrus f,left medial occipitotemporal gyrus f,,
+44,MS007,lmtpt2-lmtpt3,left,lmtpt2,lmtpt3,left medial occipitotemporal gyrus f,left medial occipitotemporal gyrus f,,
+45,MS007,lmtpt3-lmtpt4,left,lmtpt3,lmtpt4,left medial occipitotemporal gyrus f,left lateral occipitotemporal gyrus c,,
+46,MS007,lmtpt4-lmtpt5,left,lmtpt4,lmtpt5,left lateral occipitotemporal gyrus c,left basal inferior temporal gyrus e,,
+47,MS007,lmtpt5-lmtpt6,left,lmtpt5,lmtpt6,left basal inferior temporal gyrus e,left basal inferior temporal gyrus e,,
+48,MS007,lmtpt6-lmtpt7,left,lmtpt6,lmtpt7,left basal inferior temporal gyrus e,left lateral inferior temporal gyrus f,,
+49,MS007,lmtpt7-lmtpt8,left,lmtpt7,lmtpt8,left lateral inferior temporal gyrus f,left lateral inferior temporal gyrus f,,
+50,MS007,lpcip1-lpcip2,left,lpcip1,lpcip2,left cingulate gyrus o,left supramarginal gyrus 5 c,mcc,
+52,MS007,lpcip10-lpcip11,left,lpcip10,lpcip11,left cingulate gyrus o,wm,mcc,
+53,MS007,racas1-racas2,right,racas1,racas2,right frontal pole 1 b,right superior frontal gyrus 3 d,vmpfc,dmpfc
+55,MS007,racas3-racas4,right,racas3,racas4,right superior frontal gyrus 3 d,right cingulate gyrus d,dmpfc,acc
+56,MS007,racas4-racas5,right,racas4,racas5,right cingulate gyrus d,wm,acc,
+58,MS007,racas7-racas8,right,racas7,racas8,right cingulate gyrus e,wm,acc,
+60,MS007,racas10-racas11,right,racas10,racas11,right cingulate gyrus g,right superior frontal gyrus 1 a,acc,dmpfc
+61,MS007,racas11-racas12,right,racas11,racas12,right superior frontal gyrus 1 a,wm,dmpfc,
+62,MS007,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+63,MS007,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,right amygdala inferior,amy,amy
+64,MS007,raglt3-raglt4,right,raglt3,raglt4,right amygdala inferior,wm,amy,
+66,MS007,raglt6-raglt7,right,raglt6,raglt7,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+67,MS007,raglt7-raglt8,right,raglt7,raglt8,right superior middle temporal gyrus a,wm,sts,
+69,MS007,raimm1-raimm2,right,raimm1,raimm2,right posterior short insular gyrus c,right middle frontal gyrus 5 a,pins,dlpfc
+71,MS007,raimm3-raimm4,right,raimm3,raimm4,right middle frontal gyrus 5 a,right middle short insular gyrus b,dlpfc,ains
+72,MS007,raimm4-raimm5,right,raimm4,raimm5,right middle short insular gyrus b,right middle short insular gyrus a,ains,ains
+73,MS007,raimm5-raimm6,right,raimm5,raimm6,right middle short insular gyrus a,right pars opercularis c,ains,vlpfc
+74,MS007,raimm6-raimm7,right,raimm6,raimm7,right pars opercularis c,wm,vlpfc,
+76,MS007,raimm8-raimm9,right,raimm8,raimm9,right pars opercularis a,right pars opercularis a,vlpfc,vlpfc
+77,MS007,raimm10-raimm11,right,raimm10,raimm11,right pars opercularis a,right pars opercularis a,vlpfc,vlpfc
+78,MS007,raimm11-raimm12,right,raimm11,raimm12,right pars opercularis a,wm,vlpfc,
+79,MS007,rcmfo1-rcmfo2,right,rcmfo1,rcmfo2,right thalamus,right somatosensory m,,
+80,MS007,rcmfo2-rcmfo3,right,rcmfo2,rcmfo3,right somatosensory m,right posterior motor,,
+81,MS007,rcmfo3-rcmfo4,right,rcmfo3,rcmfo4,right posterior motor,right posterior motor,,
+82,MS007,rcmfo4-rcmfo5,right,rcmfo4,rcmfo5,right posterior motor,right posterior motor,,
+83,MS007,rcmfo6-rcmfo7,right,rcmfo6,rcmfo7,right thalamus,right thalamus,,
+84,MS007,rcmfo7-rcmfo8,right,rcmfo7,rcmfo8,right thalamus,right thalamus,,
+85,MS007,rcmfo8-rcmfo9,right,rcmfo8,rcmfo9,right thalamus,right thalamus,,
+87,MS007,rcmfo10-rcmfo11,right,rcmfo10,rcmfo11,right anterior long insular gyrus a,right anterior long insular gyrus a,pins,pins
+88,MS007,rcmfo11-rcmfo12,right,rcmfo11,rcmfo12,right somatosensory m,right somatosensory m,,
+89,MS007,rcmfo12-rcmfo13,right,rcmfo12,rcmfo13,right somatosensory m,right somatosensory m,,
+90,MS007,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+91,MS007,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,right hippocampus pes,hpc,hpc
+92,MS007,rhplt3-rhplt4,right,rhplt3,rhplt4,right hippocampus pes,wm,hpc,
+94,MS007,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus k,right cingulate gyrus k,mcc,mcc
+95,MS007,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus k,right superior frontal gyrus 5 a,mcc,dmpfc
+96,MS007,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 5 a,right superior frontal gyrus 5 a,dmpfc,dmpfc
+97,MS007,rmcms5-rmcms6,right,rmcms5,rmcms6,right superior frontal gyrus 5 a,right superior frontal gyrus 5 a,dmpfc,dmpfc
+98,MS007,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 5 a,wm,dmpfc,
+100,MS007,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 4 a,right frontal orbital 4 a,ofc,ofc
+101,MS007,rmolf2-rmolf3,right,rmolf2,rmolf3,right frontal orbital 4 a,wm,ofc,
+103,MS007,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+104,MS007,rmolf6-rmolf7,right,rmolf6,rmolf7,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+105,MS007,rmolf7-rmolf8,right,rmolf7,rmolf8,right frontal orbital 4 d,wm,ofc,
+107,MS007,rmtpt1-rmtpt2,right,rmtpt1,rmtpt2,right hippocampus tail,right hippocampus tail,hpc,hpc
+108,MS007,rmtpt2-rmtpt3,right,rmtpt2,rmtpt3,right hippocampus tail,wm,hpc,
+110,MS007,rmtpt6-rmtpt7,right,rmtpt6,rmtpt7,right inferior middle temporal gyrus e,right lateral inferior temporal gyrus e,,
+111,MS007,rmtpt7-rmtpt8,right,rmtpt7,rmtpt8,right lateral inferior temporal gyrus e,right lateral inferior temporal gyrus e,,
+112,MS007,rpcip1-rpcip2,right,rpcip1,rpcip2,right cingulate gyrus o,wm,mcc,
+114,MS007,rpcip8-rpcip9,right,rpcip8,rpcip9,right cingulate gyrus o,right cingulate gyrus o,mcc,mcc
+116,MS007,rpcip10-rpcip11,right,rpcip10,rpcip11,right supramarginal gyrus 5 b,right supramarginal gyrus 5 b,,
+0,MS008,lacas7-lacas8,left,lacas7,lacas8,left middle frontal gyrus 3 a,left middle frontal gyrus 3 a,dlpfc,dlpfc
+2,MS008,lacas9-lacas10,left,lacas9,lacas10,left middle frontal gyrus 2 a,left middle frontal gyrus 2 a,dlpfc,dlpfc
+3,MS008,lacas10-lacas11,left,lacas10,lacas11,left middle frontal gyrus 2 a,left middle frontal gyrus 2 a,dlpfc,dlpfc
+4,MS008,lagit1-lagit2,left,lagit1,lagit2,left amygdala superior,left amygdala superior,amy,amy
+5,MS008,lagit2-lagit3,left,lagit2,lagit3,left amygdala superior,left amygdala superior,amy,amy
+6,MS008,lagit3-lagit4,left,lagit3,lagit4,left amygdala superior,wm,amy,
+8,MS008,lagit7-lagit8,left,lagit7,lagit8,left inferior middle temporal gyrus a,left inferior middle temporal gyrus b,,
+9,MS008,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left hippocampus pes,hpc,hpc
+10,MS008,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus body,hpc,hpc
+11,MS008,lhpit3-lhpit4,left,lhpit3,lhpit4,left hippocampus body,wm,hpc,
+13,MS008,lhpit7-lhpit8,left,lhpit7,lhpit8,left superior middle temporal gyrus c,wm,sts,
+16,MS008,lmoif1-lmoif2,left,lmoif1,lmoif2,left frontal orbital 4 a,left anterior pars triangularis a,ofc,vlpfc
+17,MS008,lmoif2-lmoif3,left,lmoif2,lmoif3,left frontal orbital 4 b,left frontal orbital 4 b,ofc,ofc
+18,MS008,lmoif3-lmoif4,left,lmoif3,lmoif4,left frontal orbital 4 b,left frontal orbital 4 b,ofc,ofc
+19,MS008,lmoif4-lmoif5,left,lmoif4,lmoif5,left frontal orbital 4 c,left frontal orbital 4 c,ofc,ofc
+20,MS008,lmoif5-lmoif6,left,lmoif5,lmoif6,left frontal orbital 4 c,left frontal orbital 4 c,ofc,ofc
+21,MS008,lmoif6-lmoif7,left,lmoif6,lmoif7,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+22,MS008,lmoif7-lmoif8,left,lmoif7,lmoif8,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+23,MS008,lmoif8-lmoif9,left,lmoif8,lmoif9,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+24,MS008,lmoif9-lmoif10,left,lmoif9,lmoif10,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+25,MS008,lmtpt1-lmtpt2,left,lmtpt1,lmtpt2,left hippocampus tail,wm,hpc,
+27,MS008,lmtpt6-lmtpt7,left,lmtpt6,lmtpt7,left superior middle temporal gyrus g,left superior middle temporal gyrus g,sts,sts
+28,MS008,lmtpt7-lmtpt8,left,lmtpt7,lmtpt8,left superior middle temporal gyrus g,wm,sts,
+30,MS008,racas2-racas3,right,racas2,racas3,right superior frontal gyrus 3 a,right superior frontal gyrus 3 a,dmpfc,dmpfc
+33,MS008,racas7-racas8,right,racas7,racas8,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+35,MS008,racas9-racas10,right,racas9,racas10,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+36,MS008,racas10-racas11,right,racas10,racas11,right superior frontal gyrus 2 a,right superior frontal gyrus 2 a,dmpfc,dmpfc
+38,MS008,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,oob,amy,
+40,MS008,ragit3-ragit4,right,ragit3,ragit4,right inferior middle temporal gyrus e,right inferior middle temporal gyrus e,,
+41,MS008,ragit4-ragit5,right,ragit4,ragit5,right inferior middle temporal gyrus e,right superior middle temporal gyrus e,,sts
+42,MS008,ragit5-ragit6,right,ragit5,ragit6,right amygdala inferior,right amygdala inferior,amy,amy
+43,MS008,ragit6-ragit7,right,ragit6,ragit7,right hippocampus pes,right hippocampus pes,hpc,hpc
+44,MS008,ragit7-ragit8,right,ragit7,ragit8,right hippocampus pes,right hippocampus pes,hpc,hpc
+45,MS008,ragit8-ragit9,right,ragit8,ragit9,right hippocampus pes,right hippocampus pes,hpc,hpc
+50,MS008,rhpo1-rhpo2,right,rhpo1,rhpo2,right hippocampus pes,right inferior middle occipital gyrus k,hpc,
+52,MS008,rhpo3-rhpo4,right,rhpo3,rhpo4,right inferior middle occipital gyrus k,right hippocampus body,,hpc
+53,MS008,rhpo4-rhpo5,right,rhpo4,rhpo5,right hippocampus body,right hippocampus body,hpc,hpc
+54,MS008,rhpo5-rhpo6,right,rhpo5,rhpo6,right hippocampus body,right hippocampus body,hpc,hpc
+55,MS008,rhpo6-rhpo7,right,rhpo6,rhpo7,right hippocampus body,right hippocampus body,hpc,hpc
+56,MS008,rhpo7-rhpo8,right,rhpo7,rhpo8,right hippocampus body,wm,hpc,
+58,MS008,rhpo12-rhpo13,right,rhpo12,rhpo13,right parahippocampal gyrus g,wm,phg,
+60,MS008,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus k,wm,mcc,
+62,MS008,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 7 d,right superior frontal gyrus 7 d,dmpfc,dmpfc
+63,MS008,rmoif1-rmoif2,right,rmoif1,rmoif2,right frontal orbital 3 a,right frontal orbital 3 a,ofc,ofc
+64,MS008,rmoif2-rmoif3,right,rmoif2,rmoif3,right frontal orbital 3 a,right frontal orbital 3 c,ofc,ofc
+65,MS008,rmoif3-rmoif4,right,rmoif3,rmoif4,right frontal orbital 3 c,right frontal orbital 3 c,ofc,ofc
+66,MS008,rmoif4-rmoif5,right,rmoif4,rmoif5,right frontal orbital 3 c,right frontal orbital 3 d,ofc,ofc
+67,MS008,rmoif5-rmoif6,right,rmoif5,rmoif6,right frontal orbital 3 d,wm,ofc,
+69,MS008,rmoif8-rmoif9,right,rmoif8,rmoif9,right frontal pole 3 f,right frontal pole 3 g,vmpfc,vlpfc
+71,MS008,rmtpt6-rmtpt7,right,rmtpt6,rmtpt7,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+72,MS008,rmtpt7-rmtpt8,right,rmtpt7,rmtpt8,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+76,MS008,rpea4-rpea5,right,rpea4,rpea5,right supramarginal gyrus 3 b,right supramarginal gyrus 3 a,,
+79,MS008,rpep3-rpep4,right,rpep3,rpep4,right supramarginal gyrus 5 b,oob,,
+0,MS010,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left cingulate gyrus e,acc,acc
+1,MS010,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus e,wm,acc,
+3,MS010,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+4,MS010,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus g,wm,acc,
+6,MS010,laglt1-laglt2,left,laglt1,laglt2,left amygdala superior,left amygdala superior,amy,amy
+7,MS010,laglt2-laglt3,left,laglt2,laglt3,left amygdala superior,left amygdala superior,amy,amy
+8,MS010,laglt3-laglt4,left,laglt3,laglt4,left amygdala superior,wm,amy,
+10,MS010,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+11,MS010,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus body,hpc,hpc
+12,MS010,lhplt3-lhplt5,left,lhplt3,lhplt5,left hippocampus body,wm,hpc,
+15,MS010,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+16,MS010,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+17,MS010,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+18,MS010,lmolf5-lmolf6,left,lmolf5,lmolf6,left frontal orbital 3 d,wm,ofc,
+20,MS010,lmolf7-lmolf8,left,lmolf7,lmolf8,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+21,MS010,lmolf8-lmolf9,left,lmolf8,lmolf9,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+23,MS010,lposf4-lposf5,left,lposf4,lposf5,left frontal orbital 4 a,wm,ofc,
+25,MS010,lposf8-lposf9,left,lposf8,lposf9,left middle pars triangularis a,left middle frontal gyrus 2 c,vlpfc,dlpfc
+26,MS010,lposf9-lposf10,left,lposf9,lposf10,left middle frontal gyrus 2 c,left middle frontal gyrus 2 c,dlpfc,dlpfc
+27,MS010,racas1-racas2,right,racas1,racas2,right anterior cingulate gyrus,wm,,
+29,MS010,racas5-racas6,right,racas5,racas6,right cingulate gyrus g,wm,acc,
+31,MS010,racas7-racas8,right,racas7,racas8,right superior frontal gyrus 2 a,wm,dmpfc,
+33,MS010,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala superior,amy,amy
+34,MS010,ragit2-ragit3,right,ragit2,ragit3,right amygdala superior,right amygdala superior,amy,amy
+35,MS010,ragit3-ragit4,right,ragit3,ragit4,right amygdala superior,wm,amy,
+37,MS010,ragit5-ragit6,right,ragit5,ragit6,right superior temporal gyrus a,right superior temporal gyrus b,temporal,temporal
+38,MS010,ragit6-ragit7,right,ragit6,ragit7,right superior temporal gyrus b,right superior temporal gyrus b,temporal,temporal
+39,MS010,ragit7-ragit8,right,ragit7,ragit8,right superior temporal gyrus b,right superior temporal gyrus b,temporal,temporal
+40,MS010,raimf1-raimf2,right,raimf1,raimf2,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+41,MS010,raimf2-raimf3,right,raimf2,raimf3,right anterior short insular gyrus a,right posterior pars triangularis b,ains,vlpfc
+42,MS010,raimf3-raimf4,right,raimf3,raimf4,right posterior pars triangularis b,wm,vlpfc,
+44,MS010,raimf6-raimf7,right,raimf6,raimf7,right middle frontal gyrus 5 a,wm,dlpfc,
+46,MS010,raimf8-raimf9,right,raimf8,raimf9,right middle frontal gyrus 5 a,wm,dlpfc,
+48,MS010,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right hippocampus pes,hpc,hpc
+49,MS010,rhpit2-rhpit3,right,rhpit2,rhpit3,right hippocampus pes,wm,hpc,
+51,MS010,rhpit6-rhpit7,right,rhpit6,rhpit7,right superior temporal gyrus c,right superior temporal gyrus c,temporal,temporal
+52,MS010,rhpit7-rhpit9,right,rhpit7,rhpit9,right superior temporal gyrus c,right superior temporal gyrus d,temporal,temporal
+53,MS010,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus j,wm,acc,
+55,MS010,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus j,wm,acc,
+57,MS010,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 5 d,right superior frontal gyrus 5 d,dmpfc,dmpfc
+58,MS010,rmcms7-rmcms8,right,rmcms7,rmcms8,right superior frontal gyrus 5 d,right superior frontal gyrus 5 d,dmpfc,dmpfc
+59,MS010,rmcms8-rmcms9,right,rmcms8,rmcms9,right superior frontal gyrus 5 d,right superior frontal gyrus 5 d,dmpfc,dmpfc
+60,MS010,rmlsl1-rmlsl2,right,rmlsl1,rmlsl2,right frontal pole 1 d,right frontal pole 1 d,vmpfc,vmpfc
+61,MS010,rmlsl2-rmlsl3,right,rmlsl2,rmlsl3,right frontal pole 1 d,oob,vmpfc,
+64,MS010,rmlsl5-rmlsl6,right,rmlsl5,rmlsl6,right frontal pole 2 d,right frontal pole 3 e,vmpfc,vmpfc
+65,MS010,rmlsl6-rmlsl7,right,rmlsl6,rmlsl7,right frontal pole 3 e,right frontal pole 4 e,vmpfc,vmpfc
+66,MS010,rmlsl7-rmlsl8,right,rmlsl7,rmlsl8,right frontal pole 4 e,right frontal pole 4 e,vmpfc,vmpfc
+67,MS010,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal pole 3 a,wm,vmpfc,
+73,MS010,rmolf8-rmolf9,right,rmolf8,rmolf9,right middle frontal gyrus 2 c,right middle frontal gyrus 2 d,dlpfc,dlpfc
+75,MS010,rmolf22-rmolf23,right,rmolf22,rmolf23,right frontal orbital 5 a,wm,ofc,
+77,MS010,rmolf28-rmolf29,right,rmolf28,rmolf29,right anterior pars triangularis b,wm,vlpfc,
+0,MS012,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right superior frontal gyrus 2 c,acc,dmpfc
+1,MS012,racas2-racas3,right,racas2,racas3,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+2,MS012,racas3-racas4,right,racas3,racas4,right cingulate gyrus e,right cingulate gyrus e,acc,acc
+4,MS012,racas5-racas6,right,racas5,racas6,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+5,MS012,racas6-racas7,right,racas6,racas7,right superior frontal gyrus 1 a,right superior frontal gyrus 1 a,dmpfc,dmpfc
+7,MS012,racas9-racas10,right,racas9,racas10,right superior frontal gyrus 2 c,right superior frontal gyrus 2 c,dmpfc,dmpfc
+8,MS012,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala superior,amy,amy
+9,MS012,raglt2-raglt3,right,raglt2,raglt3,right amygdala superior,right amygdala inferior,amy,amy
+10,MS012,raglt3-raglt4,right,raglt3,raglt4,right amygdala inferior,wm,amy,
+12,MS012,rals1-rals2,right,rals1,rals2,right middle short insular gyrus b,right superior frontal gyrus 3 d,ains,dmpfc
+13,MS012,rals2-rals3,right,rals2,rals3,right superior frontal gyrus 3 d,wm,dmpfc,
+15,MS012,rals4-rals5,right,rals4,rals5,right superior frontal gyrus 4 c,right superior frontal gyrus 4 c,dmpfc,dmpfc
+16,MS012,rals8-rals9,right,rals8,rals9,right anterior short insular gyrus b,right anterior short insular gyrus b,ains,ains
+17,MS012,rals9-rals10,right,rals9,rals10,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+18,MS012,rals10-rals11,right,rals10,rals11,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+20,MS012,rals13-rals14,right,rals13,rals14,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+21,MS012,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+22,MS012,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,right hippocampus pes,hpc,hpc
+23,MS012,rhplt3-rhplt4,right,rhplt3,rhplt4,right hippocampus pes,wm,hpc,
+26,MS012,rmcms4-rmcms5,right,rmcms4,rmcms5,right cingulate gyrus j,wm,acc,
+28,MS012,rmcms8-rmcms9,right,rmcms8,rmcms9,right superior frontal gyrus 5 d,right superior frontal gyrus 5 d,dmpfc,dmpfc
+29,MS012,rmls1-rmls2,right,rmls1,rmls2,right anterior long insular gyrus c,right posterior motor f,pins,motor
+30,MS012,rmls2-rmls3,right,rmls2,rmls3,right posterior motor f,right posterior motor e,motor,motor
+31,MS012,rmls3-rmls4,right,rmls3,rmls4,right anterior long insular gyrus b,right anterior long insular gyrus b,pins,pins
+32,MS012,rmls4-rmls5,right,rmls4,rmls5,right posterior short insular gyrus a,right posterior short insular gyrus a,pins,pins
+33,MS012,rmls7-rmls8,right,rmls7,rmls8,right somatosensory m,right somatosensory m,,
+35,MS012,rmls9-rmls10,right,rmls9,rmls10,right posterior motor f,right posterior motor f,motor,motor
+36,MS012,rmls10-rmls11,right,rmls10,rmls11,right posterior motor f,right posterior motor f,motor,motor
+37,MS012,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 4 b,right middle pars triangularis a,ofc,vlpfc
+38,MS012,rmolf2-rmolf4,right,rmolf2,rmolf4,right frontal orbital 4 b,right frontal orbital 4 b,ofc,ofc
+39,MS012,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 4 c,right frontal orbital 4 c,ofc,ofc
+40,MS012,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+42,MS012,rmtpt1-rmtpt2,right,rmtpt1,rmtpt2,right parahippocampal gyrus f,right parahippocampal gyrus f,phg,phg
+43,MS012,rmtpt2-rmtpt3,right,rmtpt2,rmtpt3,right parahippocampal gyrus f,right medial occipitotemporal gyrus e,phg,
+44,MS012,rmtpt3-rmtpt4,right,rmtpt3,rmtpt4,right medial occipitotemporal gyrus e,wm,,
+45,MS012,rpls11-rpls12,right,rpls11,rpls12,right posterior long insular gyrus d,right supramarginal gyrus 5 a,pins,
+47,MS012,rpls13-rpls14,right,rpls13,rpls14,right supramarginal gyrus 5 a,right supramarginal gyrus 5 a,,
+48,MS012,rpls14-rpls15,right,rpls14,rpls15,right supramarginal gyrus 5 a,right posterior long insular gyrus c,,pins
+49,MS012,rpls15-rpls16,right,rpls15,rpls16,right posterior long insular gyrus c,right posterior long insular gyrus c,pins,pins
+50,MS012,rpls16-rpls17,right,rpls16,rpls17,right posterior long insular gyrus c,right posterior long insular gyrus b,pins,pins
+51,MS012,rpls113-rpls114,right,rpls113,rpls114,right posterior long insular gyrus b,right posterior long insular gyrus b,pins,pins
+52,MS012,rpls114-rpls115,right,rpls114,rpls115,right posterior long insular gyrus b,right posterior long insular gyrus a,pins,pins
+53,MS012,rpls115-rpls116,right,rpls115,rpls116,right posterior long insular gyrus a,wm,pins,
+0,MS014,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right superior frontal gyrus 3 d,acc,dmpfc
+2,MS014,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+3,MS014,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,right amygdala inferior,amy,amy
+4,MS014,raglt3-raglt4,right,raglt3,raglt4,right amygdala inferior,wm,amy,
+6,MS014,raglt6-raglt7,right,raglt6,raglt7,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+7,MS014,raglt7-raglt8,right,raglt7,raglt8,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+8,MS014,raglt8-raglt9,right,raglt8,raglt9,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+9,MS014,raips1-raips2,right,raips1,raips2,right middle short insular gyrus c,right middle frontal gyrus 7 a,ains,dlpfc
+11,MS014,raips3-raips4,right,raips3,raips4,right middle frontal gyrus 7 a,right superior frontal gyrus 6 d,dlpfc,dmpfc
+13,MS014,raips5-raips6,right,raips5,raips6,right superior frontal gyrus 6 d,right posterior short insular gyrus c,dmpfc,pins
+14,MS014,raips10-raips11,right,raips10,raips11,right posterior short insular gyrus c,right middle short insular gyrus b,pins,ains
+15,MS014,raips11-raips12,right,raips11,raips12,right middle short insular gyrus b,right middle short insular gyrus a,ains,ains
+16,MS014,raips14-raips15,right,raips14,raips15,right middle short insular gyrus a,right middle short insular gyrus a,ains,ains
+17,MS014,raips15-raips16,right,raips15,raips16,right middle short insular gyrus a,wm,ains,
+20,MS014,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus i,wm,acc,
+22,MS014,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus i,wm,acc,
+24,MS014,rmcms8-rmcms9,right,rmcms8,rmcms9,right middle frontal gyrus 5 a,right middle frontal gyrus 6 b,dlpfc,dlpfc
+26,MS014,rmolf2-rmolf3,right,rmolf2,rmolf3,right frontal orbital 3 a,wm,ofc,
+28,MS014,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 3 c,right frontal orbital 3 d,ofc,ofc
+29,MS014,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 3 d,right frontal orbital 3 d,ofc,ofc
+30,MS014,rmolf6-rmolf7,right,rmolf6,rmolf7,right frontal orbital 3 d,wm,ofc,
+31,MS014,rsi2-rsi3,right,rsi2,rsi3,right posterior motor k,wm,motor,
+0,MS016,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,wm,acc,
+2,MS016,lacas9-lacas10,left,lacas9,lacas10,left middle frontal gyrus 2 a,left middle frontal gyrus 3 b,dlpfc,dlpfc
+3,MS016,lagit1-lagit2,left,lagit1,lagit2,left amygdala superior,left amygdala inferior,amy,amy
+4,MS016,lagit2-lagit3,left,lagit2,lagit3,left amygdala inferior,left amygdala inferior,amy,amy
+5,MS016,lagit3-lagit4,left,lagit3,lagit4,left amygdala inferior,wm,amy,
+7,MS016,lagit7-lagit8,left,lagit7,lagit8,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+8,MS016,lagit8-lagit9,left,lagit8,lagit9,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+9,MS016,lagit9-lagit10,left,lagit9,lagit10,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+10,MS016,laimm1-laimm2,left,laimm1,laimm2,left anterior long insular gyrus c,left posterior short insular gyrus b,pins,pins
+11,MS016,laimm2-laimm3,left,laimm2,laimm3,left posterior short insular gyrus b,left posterior short insular gyrus b,pins,pins
+12,MS016,laimm3-laimm4,left,laimm3,laimm4,left posterior short insular gyrus b,left posterior short insular gyrus a,pins,pins
+13,MS016,laimm4-laimm5,left,laimm4,laimm5,left posterior short insular gyrus a,left posterior motor k,pins,motor
+14,MS016,laimm5-laimm6,left,laimm5,laimm6,left posterior motor k,wm,motor,
+16,MS016,laimm11-laimm12,left,laimm11,laimm12,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+17,MS016,laimm12-laimm13,left,laimm12,laimm13,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+18,MS016,laimm13-laimm14,left,laimm13,laimm14,left superior frontal gyrus 4 d,left superior frontal gyrus 4 c,dmpfc,dmpfc
+19,MS016,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left hippocampus pes,hpc,hpc
+20,MS016,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus body,hpc,hpc
+22,MS016,lhpit7-lhpit8,left,lhpit7,lhpit8,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+23,MS016,lhpit8-lhpit9,left,lhpit8,lhpit9,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+24,MS016,lhpit9-lhpit10,left,lhpit9,lhpit10,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+25,MS016,lils2_1-lils1_1,left,lils2_1,lils1_1,left superior parietal 3 f,left superior parietal 3 f,parietal,parietal
+27,MS016,lils2_2-lils1_2,left,lils2_2,lils1_2,left superior parietal 3 f,left superior parietal 3 f,parietal,parietal
+28,MS016,lils1_2-lils2_3,left,lils1_2,lils2_3,left superior parietal 3 f,left superior parietal 3 f,parietal,parietal
+29,MS016,lils2_3-lils1_3,left,lils2_3,lils1_3,left supramarginal gyrus 4 a,left superior parietal 2 d,,parietal
+30,MS016,lils1_3-lils2_4,left,lils1_3,lils2_4,left superior parietal 2 d,left superior parietal 2 d,parietal,parietal
+31,MS016,lils2_4-lils1_4,left,lils2_4,lils1_4,left supramarginal gyrus 4 a,left supramarginal gyrus 4 a,,
+32,MS016,lils1_4-lils2_5,left,lils1_4,lils2_5,left supramarginal gyrus 3 a,left supramarginal gyrus 3 a,,
+33,MS016,lils2_5-lils1_5,left,lils2_5,lils1_5,left supramarginal gyrus 3 a,left supramarginal gyrus 3 a,,
+34,MS016,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus j,left cingulate gyrus j,acc,acc
+35,MS016,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus j,left cingulate gyrus j,acc,acc
+36,MS016,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus j,left superior frontal gyrus 5 a,acc,dmpfc
+37,MS016,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 5 a,wm,dmpfc,
+39,MS016,lmcms8-lmcms9,left,lmcms8,lmcms9,left superior frontal gyrus 5 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+40,MS016,lmls3_1-lmls3_2,left,lmls3_1,lmls3_2,left superior parietal 1 g,left superior parietal 1 g,parietal,parietal
+41,MS016,lmls3_2-lmls3_3,left,lmls3_2,lmls3_3,left superior parietal 1 g,left somatosensory g,parietal,
+42,MS016,lmls3_3-lmls3_4,left,lmls3_3,lmls3_4,left somatosensory g,wm,,
+44,MS016,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 2 b,left frontal orbital 2 c,ofc,ofc
+45,MS016,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 2 c,left frontal orbital 3 c,ofc,ofc
+46,MS016,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 3 c,left frontal orbital 3 d,ofc,ofc
+47,MS016,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+48,MS016,lmolf5-lmolf6,left,lmolf5,lmolf6,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+49,MS016,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal orbital 3 d,left anterior pars triangularis a,ofc,vlpfc
+50,MS016,lmolf7-lmolf8,left,lmolf7,lmolf8,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+51,MS016,racas1-racas2,right,racas1,racas2,right cingulate gyrus c,wm,acc,
+53,MS016,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 2 a,right middle frontal gyrus 2 a,dlpfc,dlpfc
+54,MS016,racas10-racas11,right,racas10,racas11,right middle frontal gyrus 2 a,right middle frontal gyrus 2 b,dlpfc,dlpfc
+55,MS016,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+56,MS016,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,wm,amy,
+58,MS016,ragit8-ragit9,right,ragit8,ragit9,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+59,MS016,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right hippocampus pes,hpc,hpc
+60,MS016,rhpit2-rhpit3,right,rhpit2,rhpit3,right hippocampus pes,right hippocampus pes,hpc,hpc
+61,MS016,rhpit3-rhpit4,right,rhpit3,rhpit4,right hippocampus pes,right medial occipitotemporal gyrus a,hpc,
+62,MS016,rhpit4-rhpit5,right,rhpit4,rhpit5,right medial occipitotemporal gyrus a,wm,,
+64,MS016,rhpit8-rhpit9,right,rhpit8,rhpit9,right superior middle temporal gyrus b,right superior middle temporal gyrus b,sts,sts
+1,MS017,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+3,MS017,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+4,MS017,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+5,MS017,lacas6-lacas7,left,lacas6,lacas7,left superior frontal gyrus 1 a,left superior frontal gyrus 1 a,dmpfc,dmpfc
+7,MS017,lacas8-lacas9,left,lacas8,lacas9,left superior frontal gyrus 2 b,left superior frontal gyrus 2 b,dmpfc,dmpfc
+9,MS017,laglt1-laglt2,left,laglt1,laglt2,left amygdala superior,left amygdala superior,amy,amy
+10,MS017,laglt2-laglt3,left,laglt2,laglt3,left amygdala superior,wm,amy,
+12,MS017,laglt5-laglt7,left,laglt5,laglt7,left superior temporal gyrus a,wm,temporal,
+14,MS017,laglt8-laglt9,left,laglt8,laglt9,left superior temporal gyrus a,left superior temporal gyrus a,temporal,temporal
+15,MS017,lalps1-lalps2,left,lalps1,lalps2,left anterior short insular gyrus b,left middle frontal gyrus 6 a,ains,dlpfc
+16,MS017,lalps2-lalps3,left,lalps2,lalps3,left middle frontal gyrus 6 a,left middle frontal gyrus 7 a,dlpfc,dlpfc
+17,MS017,lalps3-lalps4,left,lalps3,lalps4,left middle frontal gyrus 7 a,left superior frontal gyrus 5 d,dlpfc,dmpfc
+18,MS017,lalps9-lalps10,left,lalps9,lalps10,left superior frontal gyrus 5 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+19,MS017,lalps10-lalps11,left,lalps10,lalps11,left anterior short insular gyrus a,left anterior short insular gyrus a,ains,ains
+20,MS017,lalps11-lalps12,left,lalps11,lalps12,left pars opercularis c,left pars opercularis c,vlpfc,vlpfc
+22,MS017,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+23,MS017,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus pes,hpc,hpc
+25,MS017,lhplt8-lhplt9,left,lhplt8,lhplt9,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+26,MS017,lllt1-lllt2,left,lllt1,lllt2,left superior temporal gyrus c,wm,temporal,
+28,MS017,lllt4-lllt5,left,lllt4,lllt5,left superior temporal gyrus d,wm,temporal,
+30,MS017,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus j,wm,acc,
+32,MS017,lmcms3-lmcms4,left,lmcms3,lmcms4,left superior frontal gyrus 5 a,wm,dmpfc,
+34,MS017,lmlbr1-lmlbr2,left,lmlbr1,lmlbr2,left posterior motor k,left anterior motor d,motor,motor
+35,MS017,lmlbr2-lmlbr3,left,lmlbr2,lmlbr3,left anterior motor d,left anterior motor d,motor,motor
+36,MS017,lmlbr3-lmlbr4,left,lmlbr3,lmlbr4,left anterior motor d,left anterior motor d,motor,motor
+38,MS017,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 2 c,wm,ofc,
+40,MS017,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 2 d,wm,ofc,
+42,MS017,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal pole 1 h,left frontal pole 3 f,vmpfc,vmpfc
+43,MS017,lmolf7-lmolf8,left,lmolf7,lmolf8,left frontal pole 3 f,left frontal pole 3 g,vmpfc,vlpfc
+44,MS017,lpcwr1-lpcwr2,left,lpcwr1,lpcwr2,left cingulate gyrus p,left superior temporal gyrus g,pcc,temporal
+45,MS017,lpcwr7-lpcwr8,left,lpcwr7,lpcwr8,left superior temporal gyrus g,left supramarginal gyrus 5 e,temporal,
+47,MS017,lpcwr9-lpcwr10,left,lpcwr9,lpcwr10,left supramarginal gyrus 5 e,left supramarginal gyrus 5 e,,
+48,MS017,lpcwr10-lpcwr11,left,lpcwr10,lpcwr11,left superior temporal gyrus g,left superior temporal gyrus g,temporal,temporal
+49,MS017,lplsp1-lplsp2,left,lplsp1,lplsp2,left superior temporal gyrus e,left superior temporal gyrus e,temporal,temporal
+50,MS017,lplsp2-lplsp3,left,lplsp2,lplsp3,left superior temporal gyrus e,wm,temporal,
+53,MS017,ltplt2-ltplt3,left,ltplt2,ltplt3,left superior middle temporal pole b,left superior middle temporal pole b,temporal pole,temporal pole
+54,MS017,ltplt3-ltplt4,left,ltplt3,ltplt4,left superior middle temporal pole b,wm,temporal pole,
+56,MS017,ltplt5-ltplt6,left,ltplt5,ltplt6,left inferior middle temporal pole c,left superior middle temporal pole d,temporal pole,temporal pole
+57,MS017,ltplt6-ltplt7,left,ltplt6,ltplt7,left superior middle temporal pole d,left superior middle temporal pole d,temporal pole,temporal pole
+0,MS018,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left cingulate gyrus e,acc,acc
+1,MS018,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+2,MS018,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,wm,acc,
+4,MS018,lacas5-lacas6,left,lacas5,lacas6,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+5,MS018,lacas6-lacas7,left,lacas6,lacas7,left frontal pole 4 a,left frontal pole 4 b,vmpfc,vmpfc
+6,MS018,laglt1-laglt2,left,laglt1,laglt2,left amygdala superior,left amygdala superior,amy,amy
+7,MS018,laglt2-laglt3,left,laglt2,laglt3,left amygdala superior,wm,amy,
+9,MS018,laglt5-laglt6,left,laglt5,laglt6,left superior middle temporal gyrus b,wm,sts,
+11,MS018,laisf1-laisf2,left,laisf1,laisf2,left middle short insular gyrus b,left middle short insular gyrus b,ains,ains
+12,MS018,laisf2-laisf3,left,laisf2,laisf3,left middle short insular gyrus b,left anterior short insular gyrus b,ains,ains
+13,MS018,laisf3-laisf4,left,laisf3,laisf4,left anterior short insular gyrus b,left anterior short insular gyrus a,ains,ains
+14,MS018,laisf4-laisf5,left,laisf4,laisf5,left anterior short insular gyrus a,left anterior short insular gyrus a,ains,ains
+15,MS018,laisf5-laisf6,left,laisf5,laisf6,left anterior short insular gyrus a,left posterior pars triangularis b,ains,vlpfc
+16,MS018,laisf6-laisf7,left,laisf6,laisf7,left posterior pars triangularis b,wm,vlpfc,
+18,MS018,laisf8-laisf9,left,laisf8,laisf9,left middle frontal gyrus 4 b,left middle frontal gyrus 4 b,dlpfc,dlpfc
+19,MS018,laisf9-laisf10,left,laisf9,laisf10,left middle frontal gyrus 4 b,wm,dlpfc,
+21,MS018,laisf11-laisf12,left,laisf11,laisf12,left superior frontal gyrus 2 d,left superior frontal gyrus 2 d,dmpfc,dmpfc
+22,MS018,laisf12-laisf13,left,laisf12,laisf13,left superior frontal gyrus 2 d,left superior frontal gyrus 2 d,dmpfc,dmpfc
+23,MS018,lcmip1-lcmip2,left,lcmip1,lcmip2,left thalamus,left thalamus,,
+24,MS018,lcmip2-lcmip3,left,lcmip2,lcmip3,left thalamus,left thalamus,,
+25,MS018,lcmip3-lcmip4,left,lcmip3,lcmip4,left thalamus,left thalamus,,
+26,MS018,lcmip4-lcmip5,left,lcmip4,lcmip5,left thalamus,wm,,
+28,MS018,lcmip6-lcmip7,left,lcmip6,lcmip7,left anterior long insular gyrus a,wm,pins,
+30,MS018,lcmip8-lcmip9,left,lcmip8,lcmip9,left somatosensory l,wm,,
+32,MS018,lcmip10-lcmip11,left,lcmip10,lcmip11,left supramarginal gyrus 1 e,left supramarginal gyrus 1 d,,
+33,MS018,lcmip11-lcmip12,left,lcmip11,lcmip12,left supramarginal gyrus 1 d,left supramarginal gyrus 1 d,,
+34,MS018,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+35,MS018,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus body,hpc,hpc
+36,MS018,lhplt3-lhplt4,left,lhplt3,lhplt4,left hippocampus body,wm,hpc,
+38,MS018,lhplt5-lhplt6,left,lhplt5,lhplt6,left superior middle temporal gyrus c,wm,sts,
+40,MS018,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus k,wm,mcc,
+42,MS018,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus k,left superior frontal gyrus 6 a,mcc,dmpfc
+43,MS018,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 6 a,wm,dmpfc,
+45,MS018,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 4 b,wm,ofc,
+47,MS018,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 3 c,left frontal orbital 3 d,ofc,ofc
+48,MS018,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+49,MS018,lmolf5-lmolf6,left,lmolf5,lmolf6,left frontal orbital 3 d,wm,ofc,
+51,MS018,lmolf8-lmolf9,left,lmolf8,lmolf9,left pars orbitalis a,left anterior pars triangularis a,ofc,vlpfc
+52,MS018,lpis101-lpis103,left,lpis101,lpis103,left anterior long insular gyrus b,left anterior long insular gyrus a,pins,pins
+53,MS018,lpis103-lpis104,left,lpis103,lpis104,left anterior long insular gyrus a,wm,pins,
+55,MS018,lpis110-lpis111,left,lpis110,lpis111,left somatosensory f,left somatosensory f,,
+56,MS018,lpis111-lpis112,left,lpis111,lpis112,left somatosensory f,left somatosensory f,,
+58,MS018,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 1 a,right middle frontal gyrus 2 a,dlpfc,dlpfc
+59,MS018,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+60,MS018,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,wm,amy,
+62,MS018,raglt5-raglt6,right,raglt5,raglt6,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+63,MS018,raglt6-raglt7,right,raglt6,raglt7,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+64,MS018,raglt7-raglt8,right,raglt7,raglt8,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+65,MS018,raisf2-raisf3,right,raisf2,raisf3,right anterior short insular gyrus b,right anterior short insular gyrus b,ains,ains
+66,MS018,raisf3-raisf4,right,raisf3,raisf4,right anterior short insular gyrus b,right anterior short insular gyrus a,ains,ains
+67,MS018,raisf4-raisf5,right,raisf4,raisf5,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+68,MS018,raisf5-raisf6,right,raisf5,raisf6,right anterior short insular gyrus a,right posterior pars triangularis b,ains,vlpfc
+69,MS018,raisf6-raisf7,right,raisf6,raisf7,right posterior pars triangularis b,wm,vlpfc,
+71,MS018,raisf10-raisf11,right,raisf10,raisf11,right middle frontal gyrus 4 a,right middle frontal gyrus 4 a,dlpfc,dlpfc
+72,MS018,raisf11-raisf12,right,raisf11,raisf12,right middle frontal gyrus 4 a,right superior frontal gyrus 3 d,dlpfc,dmpfc
+73,MS018,raisf12-raisf14,right,raisf12,raisf14,right superior frontal gyrus 3 d,right superior frontal gyrus 2 c,dmpfc,dmpfc
+74,MS018,rcmip1-rcmip2,right,rcmip1,rcmip2,right thalamus,right thalamus,,
+75,MS018,rcmip2-rcmip3,right,rcmip2,rcmip3,right thalamus,right thalamus,,
+76,MS018,rcmip3-rcmip4,right,rcmip3,rcmip4,right thalamus,right thalamus,,
+77,MS018,rcmip4-rcmip5,right,rcmip4,rcmip5,right thalamus,wm,,
+79,MS018,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+80,MS018,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,wm,hpc,
+82,MS018,rhplt5-rhplt6,right,rhplt5,rhplt6,right superior middle temporal gyrus b,wm,sts,
+84,MS018,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus k,wm,mcc,
+87,MS018,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 4 d,wm,ofc,
+89,MS018,rmolf7-rmolf8,right,rmolf7,rmolf8,right pars orbitalis c,right anterior pars triangularis b,ofc,vlpfc
+90,MS018,rmolf8-rmolf9,right,rmolf8,rmolf9,right anterior pars triangularis b,right anterior pars triangularis b,vlpfc,vlpfc
+92,MS018,rpis106-rpis107,right,rpis106,rpis107,right somatosensory g,right somatosensory g,,
+0,MS019,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus c,left superior frontal gyrus 1 d,acc,dmpfc
+1,MS019,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+2,MS019,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+4,MS019,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+5,MS019,lacas6-lacas7,left,lacas6,lacas7,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+6,MS019,lacas7-lacas8,left,lacas7,lacas8,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+7,MS019,lacas8-lacas9,left,lacas8,lacas9,left superior frontal gyrus 1 b,left superior frontal gyrus 1 b,dmpfc,dmpfc
+8,MS019,lacas9-lacas10,left,lacas9,lacas10,left superior frontal gyrus 1 d,left superior frontal gyrus 1 d,dmpfc,dmpfc
+9,MS019,lagit1-lagit2,left,lagit1,lagit2,left amygdala superior,left amygdala superior,amy,amy
+10,MS019,lagit2-lagit3,left,lagit2,lagit3,left amygdala superior,left amygdala superior,amy,amy
+11,MS019,lagit3-lagit4,left,lagit3,lagit4,left amygdala superior,left amygdala superior,amy,amy
+12,MS019,lagit4-lagit5,left,lagit4,lagit5,left amygdala superior,wm,amy,
+14,MS019,lagit7-lagit8,left,lagit7,lagit8,left superior middle temporal gyrus a,left superior middle temporal gyrus a,sts,sts
+15,MS019,lagit8-lagit9,left,lagit8,lagit9,left superior middle temporal gyrus a,left superior middle temporal gyrus b,sts,sts
+16,MS019,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left hippocampus pes,hpc,hpc
+17,MS019,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus body,hpc,hpc
+19,MS019,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus k,left cingulate gyrus k,mcc,mcc
+20,MS019,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus k,left superior frontal gyrus 6 a,mcc,dmpfc
+21,MS019,lmcms3-lmcms4,left,lmcms3,lmcms4,left superior frontal gyrus 6 a,left superior frontal gyrus 6 a,dmpfc,dmpfc
+22,MS019,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 6 a,wm,dmpfc,
+24,MS019,lmcms6-lmcms7,left,lmcms6,lmcms7,left superior frontal gyrus 6 c,left superior frontal gyrus 6 d,dmpfc,dmpfc
+26,MS019,lmoif3-lmoif4,left,lmoif3,lmoif4,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+27,MS019,lmoif4-lmoif5,left,lmoif4,lmoif5,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+28,MS019,lmoif5-lmoif6,left,lmoif5,lmoif6,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+29,MS019,lmoif6-lmoif7,left,lmoif6,lmoif7,left frontal orbital 4 d,left anterior pars triangularis a,ofc,vlpfc
+30,MS019,lmoif7-lmoif8,left,lmoif7,lmoif8,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+31,MS019,lmoif8-lmoif9,left,lmoif8,lmoif9,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+33,MS019,lsppc1-lsppc2,left,lsppc1,lsppc2,left cingulate gyrus o,left superior parietal 2 d,mcc,parietal
+34,MS019,lsppc2-lsppc3,left,lsppc2,lsppc3,left cingulate gyrus o,left cingulate gyrus o,mcc,mcc
+35,MS019,lsppc3-lsppc4,left,lsppc3,lsppc4,left cingulate gyrus o,left cingulate gyrus o,mcc,mcc
+38,MS019,racas6-racas7,right,racas6,racas7,right frontal pole 4 a,right frontal pole 4 a,vmpfc,vmpfc
+40,MS019,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 2 a,right middle frontal gyrus 2 a,dlpfc,dlpfc
+41,MS019,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+42,MS019,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,right amygdala inferior,amy,amy
+43,MS019,ragit3-ragit4,right,ragit3,ragit4,right amygdala inferior,wm,amy,
+45,MS019,ragit6-ragit7,right,ragit6,ragit7,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+46,MS019,ragit7-ragit8,right,ragit7,ragit8,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+47,MS019,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right hippocampus pes,hpc,hpc
+48,MS019,rhpit2-rhpit3,right,rhpit2,rhpit3,right hippocampus pes,right hippocampus pes,hpc,hpc
+53,MS019,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus k,wm,mcc,
+55,MS019,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus k,right superior frontal gyrus 6 a,mcc,dmpfc
+56,MS019,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 6 a,wm,dmpfc,
+59,MS019,rmoif7-rmoif8,right,rmoif7,rmoif8,right anterior pars triangularis b,right anterior pars triangularis a,vlpfc,vlpfc
+62,MS019,rpioc11-rpioc12,right,rpioc11,rpioc12,right anterior long insular gyrus a,wm,pins,
+63,MS019,rsppc1-rsppc2,right,rsppc1,rsppc2,right cingulate gyrus o,right superior parietal 1 g,mcc,parietal
+64,MS019,rsppc2-rsppc3,right,rsppc2,rsppc3,right cingulate gyrus o,right cingulate gyrus o,mcc,mcc
+65,MS019,rsppc3-rsppc4,right,rsppc3,rsppc4,right cingulate gyrus o,right cingulate gyrus o,mcc,mcc
+67,MS019,rsppc8-rsppc9,right,rsppc8,rsppc9,right superior parietal 2 d,right superior parietal 2 d,parietal,parietal
+68,MS019,rsppc9-rsppc10,right,rsppc9,rsppc10,right superior parietal 2 d,right superior parietal 2 d,parietal,parietal
+0,MS020,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left superior frontal gyrus 2 c,acc,dmpfc
+2,MS020,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+3,MS020,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+5,MS020,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+8,MS020,lacas9-lacas10,left,lacas9,lacas10,left superior frontal gyrus 2 c,left superior frontal gyrus 2 c,dmpfc,dmpfc
+10,MS020,lagit5-lagit6,left,lagit5,lagit6,left superior middle temporal gyrus a,left inferior middle temporal gyrus a,sts,
+11,MS020,lagit6-lagit7,left,lagit6,lagit7,left inferior middle temporal gyrus a,left inferior middle temporal gyrus a,,
+12,MS020,lalit1-lalit2,left,lalit1,lalit2,left inferior middle temporal pole b,left superior middle temporal pole b,temporal pole,temporal pole
+13,MS020,lalit2-lalit3,left,lalit2,lalit3,left superior middle temporal pole b,left inferior middle temporal pole c,temporal pole,temporal pole
+14,MS020,lalit3-lalit4,left,lalit3,lalit4,left inferior middle temporal pole c,left superior middle temporal pole d,temporal pole,temporal pole
+15,MS020,lalit4-lalit5,left,lalit4,lalit5,left superior middle temporal pole d,left superior middle temporal pole d,temporal pole,temporal pole
+16,MS020,lalmf2-lalmf3,left,lalmf2,lalmf3,left middle frontal gyrus 5 a,left middle frontal gyrus 5 a,dlpfc,dlpfc
+17,MS020,lalmf3-lalmf4,left,lalmf3,lalmf4,left middle frontal gyrus 5 b,left middle frontal gyrus 5 b,dlpfc,dlpfc
+18,MS020,lalmf4-lalmf5,left,lalmf4,lalmf5,left middle frontal gyrus 6 b,left middle frontal gyrus 6 b,dlpfc,dlpfc
+19,MS020,lalmf5-lalmf6,left,lalmf5,lalmf6,left middle frontal gyrus 6 a,left middle frontal gyrus 6 a,dlpfc,dlpfc
+20,MS020,lalmf6-lalmf7,left,lalmf6,lalmf7,left posterior long insular gyrus d,left middle frontal gyrus 6 a,pins,dlpfc
+21,MS020,lalmf9-lalmf10,left,lalmf9,lalmf10,left posterior short insular gyrus c,left posterior short insular gyrus c,pins,pins
+22,MS020,lalmf10-lalmf11,left,lalmf10,lalmf11,left posterior short insular gyrus c,left posterior short insular gyrus c,pins,pins
+23,MS020,lalmf11-lalmf12,left,lalmf11,lalmf12,left posterior short insular gyrus b,left posterior short insular gyrus b,pins,pins
+24,MS020,lalmf12-lalmf13,left,lalmf12,lalmf13,left middle short insular gyrus a,left middle short insular gyrus a,ains,ains
+26,MS020,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right superior temporal gyrus d,hpc,temporal
+27,MS020,rhpit2-rhpit3,right,rhpit2,rhpit3,right hippocampus pes,right hippocampus pes,hpc,hpc
+28,MS020,rhpit3-rhpit4,right,rhpit3,rhpit4,right hippocampus pes,right hippocampus pes,hpc,hpc
+30,MS020,rhpit9-rhpit10,right,rhpit9,rhpit10,right superior temporal gyrus d,right superior temporal gyrus d,temporal,temporal
+32,MS020,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus j,wm,acc,
+34,MS020,lmcms5-lmcms6,left,lmcms5,lmcms6,left superior frontal gyrus 5 a,wm,dmpfc,
+36,MS020,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 4 a,wm,ofc,
+38,MS020,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+39,MS020,lmolf5-lmolf7,left,lmolf5,lmolf7,left frontal orbital 4 d,wm,ofc,
+41,MS020,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right superior frontal gyrus 3 d,acc,dmpfc
+42,MS020,racas2-racas3,right,racas2,racas3,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+43,MS020,racas5-racas6,right,racas5,racas6,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+45,MS020,racas8-racas9,right,racas8,racas9,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+47,MS020,racas10-racas11,right,racas10,racas11,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+48,MS020,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+49,MS020,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,wm,amy,
+51,MS020,ragit7-ragit8,right,ragit7,ragit8,right superior temporal gyrus b,right superior middle temporal gyrus a,temporal,sts
+52,MS020,ralmf1-ralmf2,right,ralmf1,ralmf2,right posterior long insular gyrus c,right middle frontal gyrus 6 a,pins,dlpfc
+53,MS020,ralmf2-ralmf3,right,ralmf2,ralmf3,right middle frontal gyrus 6 a,right middle frontal gyrus 6 a,dlpfc,dlpfc
+54,MS020,ralmf3-ralmf4,right,ralmf3,ralmf4,right middle frontal gyrus 6 a,wm,dlpfc,
+56,MS020,ralmf5-ralmf6,right,ralmf5,ralmf6,right anterior long insular gyrus c,right anterior long insular gyrus c,pins,pins
+57,MS020,ralmf9-ralmf10,right,ralmf9,ralmf10,right posterior short insular gyrus b,right posterior short insular gyrus b,pins,pins
+58,MS020,ralmf10-ralmf11,right,ralmf10,ralmf11,right posterior short insular gyrus b,right posterior short insular gyrus b,pins,pins
+59,MS020,ralmf11-ralmf12,right,ralmf11,ralmf12,right middle short insular gyrus a,right middle short insular gyrus a,ains,ains
+61,MS020,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left hippocampus pes,hpc,hpc
+62,MS020,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus pes,hpc,hpc
+63,MS020,lhpit3-lhpit4,left,lhpit3,lhpit4,left hippocampus pes,wm,hpc,
+66,MS020,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus i,wm,acc,
+68,MS020,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus i,wm,acc,
+0,MS022,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,wm,acc,
+3,MS022,lacas7-lacas8,left,lacas7,lacas8,left middle frontal gyrus 2 b,left middle frontal gyrus 2 b,dlpfc,dlpfc
+4,MS022,lacas8-lacas9,left,lacas8,lacas9,left middle frontal gyrus 2 b,left middle frontal gyrus 2 b,dlpfc,dlpfc
+5,MS022,laglt1-laglt2,left,laglt1,laglt2,left amygdala inferior,left inferior middle temporal gyrus b,amy,
+6,MS022,laglt2-laglt4,left,laglt2,laglt4,left amygdala inferior,left amygdala inferior,amy,amy
+8,MS022,laglt8-laglt9,left,laglt8,laglt9,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+9,MS022,laglt9-laglt10,left,laglt9,laglt10,left inferior middle temporal gyrus b,left inferior middle temporal gyrus b,,
+10,MS022,lhplt4-lhplt5,left,lhplt4,lhplt5,left hippocampus body,left inferior middle temporal gyrus d,hpc,
+12,MS022,lhplt8-lhplt9,left,lhplt8,lhplt9,left superior middle temporal gyrus c,left superior middle temporal gyrus c,sts,sts
+14,MS022,llesion1-llesion2,left,llesion1,llesion2,left cingulate gyrus i,left superior frontal gyrus 4 a,acc,dmpfc
+15,MS022,llesion2-llesion3,left,llesion2,llesion3,left superior frontal gyrus 4 a,wm,dmpfc,
+18,MS022,lmcms2-lmcms3,left,lmcms2,lmcms3,left middle frontal gyrus 4 b,left middle frontal gyrus 4 b,dlpfc,dlpfc
+19,MS022,lmcms3-lmcms4,left,lmcms3,lmcms4,left middle frontal gyrus 4 b,left middle frontal gyrus 4 b,dlpfc,dlpfc
+20,MS022,lmcms4-lmcms5,left,lmcms4,lmcms5,left middle frontal gyrus 4 b,left middle frontal gyrus 4 b,dlpfc,dlpfc
+21,MS022,lmolf1-lmolf2,left,lmolf1,lmolf2,left cingulate gyrus d,wm,acc,
+23,MS022,lmolf7-lmolf8,left,lmolf7,lmolf8,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+24,MS022,lmolf8-lmolf9,left,lmolf8,lmolf9,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+25,MS022,lpcsma1-lpcsma2,left,lpcsma1,lpcsma2,left cingulate gyrus l,wm,mcc,
+27,MS022,lpcsma3-lpcsma4,left,lpcsma3,lpcsma4,left cingulate gyrus l,wm,mcc,
+29,MS022,lpcsma6-lpcsma7,left,lpcsma6,lpcsma7,left superior frontal gyrus 7 d,left superior frontal gyrus 7 d,dmpfc,dmpfc
+30,MS022,lpcsma7-lpcsma8,left,lpcsma7,lpcsma8,left superior frontal gyrus 7 d,left superior frontal gyrus 7 e,dmpfc,dmpfc
+31,MS022,lpcsma8-lpcsma9,left,lpcsma8,lpcsma9,left superior frontal gyrus 7 e,left superior frontal gyrus 7 e,dmpfc,dmpfc
+33,MS022,lplfo4-lplfo5,left,lplfo4,lplfo5,left posterior motor i,left posterior motor i,motor,motor
+34,MS022,lplfo5-lplfo6,left,lplfo5,lplfo6,left posterior motor i,left posterior motor i,motor,motor
+0,MS023,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus d,left cingulate gyrus e,acc,acc
+1,MS023,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus e,left cingulate gyrus e,acc,acc
+2,MS023,lacas3-lacas4,left,lacas3,lacas4,left cingulate gyrus e,left cingulate gyrus f,acc,acc
+3,MS023,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus f,left frontal pole 4 a,acc,vmpfc
+4,MS023,lacas5-lacas6,left,lacas5,lacas6,left frontal pole 4 a,oob,vmpfc,
+8,MS023,lagit1-lagit2,left,lagit1,lagit2,left amygdala inferior,left amygdala inferior,amy,amy
+9,MS023,lagit2-lagit3,left,lagit2,lagit3,left amygdala inferior,left amygdala superior,amy,amy
+10,MS023,lagit3-lagit4,left,lagit3,lagit4,left amygdala superior,left superior temporal gyrus a,amy,temporal
+11,MS023,lagit4-lagit5,left,lagit4,lagit5,left superior temporal gyrus a,left superior temporal gyrus b,temporal,temporal
+12,MS023,lagit5-lagit6,left,lagit5,lagit6,left superior temporal gyrus b,left superior temporal gyrus b,temporal,temporal
+13,MS023,lagit6-lagit7,left,lagit6,lagit7,left superior temporal gyrus b,left superior temporal gyrus b,temporal,temporal
+14,MS023,lagit7-lagit8,left,lagit7,lagit8,left superior temporal gyrus b,left superior middle temporal gyrus b,temporal,sts
+15,MS023,lagit8-lagit9,left,lagit8,lagit9,left superior middle temporal gyrus b,wm,sts,
+17,MS023,laips1-laips2,left,laips1,laips2,left posterior long insular gyrus c,left posterior long insular gyrus c,pins,pins
+18,MS023,laips2-laips3,left,laips2,laips3,left posterior long insular gyrus c,left posterior long insular gyrus c,pins,pins
+19,MS023,laips3-laips4,left,laips3,laips4,left posterior long insular gyrus c,left posterior short insular gyrus a,pins,pins
+20,MS023,laips4-laips5,left,laips4,laips5,left posterior short insular gyrus a,left posterior short insular gyrus a,pins,pins
+21,MS023,laips5-laips6,left,laips5,laips6,left posterior short insular gyrus a,left posterior motor k,pins,motor
+22,MS023,laips6-laips7,left,laips6,laips7,left posterior motor k,wm,motor,
+26,MS023,laips12-laips13,left,laips12,laips13,left superior frontal gyrus 5 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+27,MS023,laips13-laips14,left,laips13,laips14,left superior frontal gyrus 5 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+28,MS023,lcmpo1-lcmpo2,left,lcmpo1,lcmpo2,left thalamus,left thalamus,,
+29,MS023,lcmpo2-lcmpo3,left,lcmpo2,lcmpo3,left thalamus,left thalamus,,
+30,MS023,lcmpo3-lcmpo4,left,lcmpo3,lcmpo4,left thalamus,left thalamus,,
+31,MS023,lcmpo4-lcmpo5,left,lcmpo4,lcmpo5,left thalamus,wm,,
+35,MS023,lcmpo12-lcmpo13,left,lcmpo12,lcmpo13,left somatosensory j,left somatosensory j,,
+36,MS023,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left hippocampus pes,hpc,hpc
+37,MS023,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus pes,hpc,hpc
+39,MS023,lhpit7-lhpit8,left,lhpit7,lhpit8,left superior middle temporal gyrus b,left superior middle temporal gyrus c,sts,sts
+40,MS023,lhpit8-lhpit9,left,lhpit8,lhpit9,left superior middle temporal gyrus c,wm,sts,
+42,MS023,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus i,left cingulate gyrus i,acc,acc
+43,MS023,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus i,left superior frontal gyrus 3 a,acc,dmpfc
+44,MS023,lmcms3-lmcms4,left,lmcms3,lmcms4,left superior frontal gyrus 3 a,left superior frontal gyrus 4 a,dmpfc,dmpfc
+48,MS023,lpcsma1-lpcsma2,left,lpcsma1,lpcsma2,left cingulate gyrus k,left cingulate gyrus k,mcc,mcc
+49,MS023,lpcsma2-lpcsma3,left,lpcsma2,lpcsma3,left cingulate gyrus k,left cingulate gyrus k,mcc,mcc
+50,MS023,lpcsma3-lpcsma4,left,lpcsma3,lpcsma4,left cingulate gyrus k,left superior frontal gyrus 6 a,mcc,dmpfc
+51,MS023,lpcsma4-lpcsma5,left,lpcsma4,lpcsma5,left superior frontal gyrus 6 a,left superior frontal gyrus 6 a,dmpfc,dmpfc
+52,MS023,lpcsma5-lpcsma6,left,lpcsma5,lpcsma6,left superior frontal gyrus 6 a,left superior frontal gyrus 6 b,dmpfc,dmpfc
+53,MS023,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+54,MS023,racas2-racas3,right,racas2,racas3,right cingulate gyrus d,wm,acc,
+56,MS023,racas4-racas5,right,racas4,racas5,right cingulate gyrus e,right cingulate gyrus f,acc,acc
+57,MS023,racas5-racas6,right,racas5,racas6,right cingulate gyrus f,wm,acc,
+59,MS023,racas8-racas9,right,racas8,racas9,right middle frontal gyrus 2 a,right middle frontal gyrus 2 a,dlpfc,dlpfc
+60,MS023,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 2 a,right middle frontal gyrus 2 a,dlpfc,dlpfc
+61,MS023,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+62,MS023,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,right amygdala inferior,amy,amy
+63,MS023,ragit3-ragit4,right,ragit3,ragit4,right amygdala inferior,wm,amy,
+65,MS023,ragit6-ragit7,right,ragit6,ragit7,right superior middle temporal gyrus a,wm,sts,
+67,MS023,ragit8-ragit9,right,ragit8,ragit9,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+68,MS023,rcmpo1-rcmpo2,right,rcmpo1,rcmpo2,right thalamus,right thalamus,,
+69,MS023,rcmpo2-rcmpo3,right,rcmpo2,rcmpo3,right thalamus,right thalamus,,
+70,MS023,rcmpo3-rcmpo4,right,rcmpo3,rcmpo4,right thalamus,right thalamus,,
+71,MS023,rcmpo4-rcmpo5,right,rcmpo4,rcmpo5,right thalamus,wm,,
+73,MS023,rcmpo6-rcmpo7,right,rcmpo6,rcmpo7,right anterior long insular gyrus a,right supramarginal gyrus 1 e,pins,
+74,MS023,rcmpo7-rcmpo8,right,rcmpo7,rcmpo8,right supramarginal gyrus 1 e,right supramarginal gyrus 1 e,,
+75,MS023,rcmpo8-rcmpo9,right,rcmpo8,rcmpo9,right supramarginal gyrus 1 e,wm,,
+77,MS023,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right hippocampus pes,hpc,hpc
+78,MS023,rhpit2-rhpit3,right,rhpit2,rhpit3,right hippocampus pes,right hippocampus pes,hpc,hpc
+79,MS023,rhpit3-rhpit4,right,rhpit3,rhpit4,right hippocampus pes,right hippocampus pes,hpc,hpc
+80,MS023,rhpit4-rhpit5,right,rhpit4,rhpit5,right hippocampus pes,wm,hpc,
+83,MS023,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus h,oob,acc,
+85,MS023,rmcms5-rmcms6,right,rmcms5,rmcms6,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+86,MS023,rmoif1-rmoif2,right,rmoif1,rmoif2,right frontal pole 1 c,right frontal pole 1 c,vmpfc,vmpfc
+87,MS023,rmoif2-rmoif3,right,rmoif2,rmoif3,right frontal pole 1 c,wm,vmpfc,
+89,MS023,rmoif4-rmoif5,right,rmoif4,rmoif5,right frontal orbital 3 c,right frontal orbital 3 d,ofc,ofc
+90,MS023,rmoif5-rmoif6,right,rmoif5,rmoif6,right frontal orbital 3 d,right frontal orbital 3 d,ofc,ofc
+91,MS023,rmoif6-rmoif7,right,rmoif6,rmoif7,right frontal orbital 3 d,right frontal orbital 3 d,ofc,ofc
+92,MS023,rmoif7-rmoif8,right,rmoif7,rmoif8,right frontal orbital 3 d,right pars orbitalis b,ofc,ofc
+93,MS023,rmoif8-rmoif9,right,rmoif8,rmoif9,right pars orbitalis b,right pars orbitalis c,ofc,ofc
+94,MS023,rmoif9-rmoif10,right,rmoif9,rmoif10,right pars orbitalis c,right anterior pars triangularis b,ofc,vlpfc
+96,MS023,rpcsma2-rpcsma3,right,rpcsma2,rpcsma3,right cingulate gyrus k,right superior frontal gyrus 6 a,mcc,dmpfc
+97,MS023,rpcsma3-rpcsma4,right,rpcsma3,rpcsma4,right superior frontal gyrus 6 a,wm,dmpfc,
+99,MS023,rpcsma6-rpcsma7,right,rpcsma6,rpcsma7,right superior frontal gyrus 6 d,right superior frontal gyrus 6 d,dmpfc,dmpfc
+100,MS023,rpcsma7-rpcsma8,right,rpcsma7,rpcsma8,right superior frontal gyrus 6 d,right superior frontal gyrus 6 d,dmpfc,dmpfc
+0,MS024,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus c,left superior frontal gyrus 2 c,acc,dmpfc
+1,MS024,lacas2-lacas3,left,lacas2,lacas3,left superior frontal gyrus 2 c,left superior frontal gyrus 2 c,dmpfc,dmpfc
+2,MS024,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus d,left cingulate gyrus d,acc,acc
+4,MS024,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+5,MS024,lacas7-lacas8,left,lacas7,lacas8,left cingulate gyrus f,left cingulate gyrus f,acc,acc
+6,MS024,lacas8-lacas9,left,lacas8,lacas9,left superior frontal gyrus 1 a,left superior frontal gyrus 1 a,dmpfc,dmpfc
+8,MS024,lacas10-lacas11,left,lacas10,lacas11,left superior frontal gyrus 2 c,left superior frontal gyrus 2 c,dmpfc,dmpfc
+9,MS024,lagit1-lagit2,left,lagit1,lagit2,left parahippocampal gyrus b,left superior middle temporal gyrus b,phg,sts
+10,MS024,lagit2-lagit3,left,lagit2,lagit3,left superior middle temporal gyrus b,left superior temporal gyrus c,sts,temporal
+11,MS024,lagit3-lagit4,left,lagit3,lagit4,left amygdala inferior,left amygdala inferior,amy,amy
+12,MS024,lagit4-lagit5,left,lagit4,lagit5,left amygdala inferior,left amygdala inferior,amy,amy
+13,MS024,lagit6-lagit7,left,lagit6,lagit7,left amygdala inferior,left amygdala inferior,amy,amy
+15,MS024,lagit8-lagit9,left,lagit8,lagit9,left superior temporal gyrus b,left superior temporal gyrus b,temporal,temporal
+16,MS024,lagit9-lagit10,left,lagit9,lagit10,left superior temporal gyrus b,left superior temporal gyrus b,temporal,temporal
+17,MS024,lagit10-lagit11,left,lagit10,lagit11,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+18,MS024,laimm1-laimm2,left,laimm1,laimm2,left posterior short insular gyrus c,left superior frontal gyrus 4 d,pins,dmpfc
+20,MS024,laimm3-laimm4,left,laimm3,laimm4,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+21,MS024,laimm4-laimm5,left,laimm4,laimm5,left superior frontal gyrus 4 d,left superior frontal gyrus 5 d,dmpfc,dmpfc
+22,MS024,laimm5-laimm6,left,laimm5,laimm6,left superior frontal gyrus 4 d,left superior frontal gyrus 5 c,dmpfc,dmpfc
+23,MS024,laimm10-laimm11,left,laimm10,laimm11,left superior frontal gyrus 5 d,left posterior short insular gyrus c,dmpfc,pins
+24,MS024,laimm11-laimm12,left,laimm11,laimm12,left posterior short insular gyrus c,left middle short insular gyrus b,pins,ains
+25,MS024,laimm12-laimm13,left,laimm12,laimm13,left middle short insular gyrus b,left middle short insular gyrus a,ains,ains
+26,MS024,laimm13-laimm14,left,laimm13,laimm14,left middle short insular gyrus a,left middle short insular gyrus a,ains,ains
+27,MS024,laimm14-laimm15,left,laimm14,laimm15,left middle short insular gyrus a,wm,ains,
+28,MS024,lhpit1-lhpit2,left,lhpit1,lhpit2,left hippocampus pes,left inferior middle temporal gyrus c,hpc,
+29,MS024,lhpit2-lhpit3,left,lhpit2,lhpit3,left hippocampus pes,left hippocampus pes,hpc,hpc
+30,MS024,lhpit3-lhpit4,left,lhpit3,lhpit4,left hippocampus pes,left hippocampus pes,hpc,hpc
+31,MS024,lhpit4-lhpit5,left,lhpit4,lhpit5,left hippocampus body,left hippocampus body,hpc,hpc
+33,MS024,lhpit8-lhpit9,left,lhpit8,lhpit9,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+34,MS024,lhpit9-lhpit10,left,lhpit9,lhpit10,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+35,MS024,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus h,wm,acc,
+37,MS024,lmcms6-lmcms7,left,lmcms6,lmcms7,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+38,MS024,lmcms7-lmcms8,left,lmcms7,lmcms8,left superior frontal gyrus 4 d,left middle frontal gyrus 6 a,dmpfc,dlpfc
+39,MS024,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 3 b,left frontal orbital 3 b,ofc,ofc
+40,MS024,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 3 b,left frontal orbital 3 c,ofc,ofc
+41,MS024,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 3 c,left frontal orbital 3 c,ofc,ofc
+42,MS024,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 c,left frontal orbital 3 d,ofc,ofc
+43,MS024,lmolf5-lmolf6,left,lmolf5,lmolf6,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+44,MS024,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal orbital 3 d,wm,ofc,
+46,MS024,lmolf8-lmolf9,left,lmolf8,lmolf9,left anterior pars triangularis a,left anterior pars triangularis a,vlpfc,vlpfc
+47,MS024,lptpt1-lptpt2,left,lptpt1,lptpt2,left parahippocampal gyrus f,left inferior middle temporal gyrus f,phg,
+48,MS024,lptpt2-lptpt3,left,lptpt2,lptpt3,left parahippocampal gyrus f,left parahippocampal gyrus f,phg,phg
+49,MS024,lptpt3-lptpt4,left,lptpt3,lptpt4,left medial occipitotemporal gyrus e,left medial occipitotemporal gyrus e,,
+50,MS024,lptpt4-lptpt5,left,lptpt4,lptpt5,left medial occipitotemporal gyrus e,left medial occipitotemporal gyrus e,,
+51,MS024,lptpt5-lptpt6,left,lptpt5,lptpt6,left lateral occipitotemporal gyrus b,left lateral occipitotemporal gyrus b,,
+52,MS024,lptpt6-lptpt7,left,lptpt6,lptpt7,left basal inferior temporal gyrus e,left basal inferior temporal gyrus e,,
+54,MS024,lptpt8-lptpt9,left,lptpt8,lptpt9,left lateral inferior temporal gyrus f,left lateral inferior temporal gyrus f,,
+55,MS024,lptpt9-lptpt10,left,lptpt9,lptpt10,left inferior middle temporal gyrus e,left inferior middle temporal gyrus e,,
+56,MS024,racas1-racas2,right,racas1,racas2,right cingulate gyrus c,right middle frontal gyrus 1 a,acc,dlpfc
+57,MS024,racas2-racas3,right,racas2,racas3,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+58,MS024,racas3-racas4,right,racas3,racas4,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+59,MS024,racas4-racas5,right,racas4,racas5,right cingulate gyrus e,right cingulate gyrus e,acc,acc
+60,MS024,racas5-racas6,right,racas5,racas6,right cingulate gyrus e,right cingulate gyrus e,acc,acc
+62,MS024,racas9-racas10,right,racas9,racas10,right middle frontal gyrus 1 a,right middle frontal gyrus 1 a,dlpfc,dlpfc
+63,MS024,ragit1-ragit2,right,ragit1,ragit2,right amygdala inferior,right amygdala inferior,amy,amy
+64,MS024,ragit2-ragit3,right,ragit2,ragit3,right amygdala inferior,right amygdala inferior,amy,amy
+65,MS024,ragit3-ragit4,right,ragit3,ragit4,right amygdala inferior,wm,amy,
+67,MS024,ragit7-ragit8,right,ragit7,ragit8,right inferior middle temporal gyrus a,right inferior middle temporal gyrus a,,
+68,MS024,raimm1-raimm2,right,raimm1,raimm2,right anterior short insular gyrus b,right superior frontal gyrus 5 c,ains,dmpfc
+70,MS024,raimm3-raimm4,right,raimm3,raimm4,right superior frontal gyrus 5 c,right superior frontal gyrus 5 c,dmpfc,dmpfc
+72,MS024,raimm5-raimm6,right,raimm5,raimm6,right anterior short insular gyrus b,right anterior short insular gyrus a,ains,ains
+73,MS024,raimm12-raimm13,right,raimm12,raimm13,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+74,MS024,raimm13-raimm14,right,raimm13,raimm14,right anterior short insular gyrus a,right pars opercularis c,ains,vlpfc
+75,MS024,raimm14-raimm15,right,raimm14,raimm15,right pars opercularis c,wm,vlpfc,
+76,MS024,rhpit1-rhpit2,right,rhpit1,rhpit2,right hippocampus pes,right superior middle temporal gyrus d,hpc,sts
+77,MS024,rhpit2-rhpit3,right,rhpit2,rhpit3,right superior middle temporal gyrus d,right superior middle temporal gyrus e,sts,sts
+78,MS024,rhpit3-rhpit4,right,rhpit3,rhpit4,right hippocampus pes,right hippocampus pes,hpc,hpc
+79,MS024,rhpit4-rhpit5,right,rhpit4,rhpit5,right hippocampus pes,right hippocampus pes,hpc,hpc
+80,MS024,rhpit6-rhpit7,right,rhpit6,rhpit7,right hippocampus body,right hippocampus body,hpc,hpc
+82,MS024,rhpit8-rhpit9,right,rhpit8,rhpit9,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+83,MS024,rhpit9-rhpit10,right,rhpit9,rhpit10,right superior middle temporal gyrus d,right superior middle temporal gyrus d,sts,sts
+84,MS024,rhpit10-rhpit11,right,rhpit10,rhpit11,right superior middle temporal gyrus d,right superior middle temporal gyrus d,sts,sts
+85,MS024,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus j,right cingulate gyrus i,acc,acc
+86,MS024,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus i,right superior frontal gyrus 4 a,acc,dmpfc
+87,MS024,rmcms3-rmcms4,right,rmcms3,rmcms4,right superior frontal gyrus 4 a,right superior frontal gyrus 4 a,dmpfc,dmpfc
+88,MS024,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 4 a,wm,dmpfc,
+90,MS024,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 4 a,right superior frontal gyrus 4 d,dmpfc,dmpfc
+91,MS024,rmcms7-rmcms8,right,rmcms7,rmcms8,right superior frontal gyrus 4 d,right superior frontal gyrus 4 d,dmpfc,dmpfc
+92,MS024,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 3 a,wm,ofc,
+94,MS024,rmolf8-rmolf9,right,rmolf8,rmolf9,right anterior pars triangularis a,right anterior pars triangularis a,vlpfc,vlpfc
+95,MS024,rptpt1-rptpt2,right,rptpt1,rptpt2,right medial occipitotemporal gyrus e,right superior temporal gyrus g,,temporal
+96,MS024,rptpt2-rptpt3,right,rptpt2,rptpt3,right medial occipitotemporal gyrus e,right medial occipitotemporal gyrus e,,
+97,MS024,rptpt3-rptpt4,right,rptpt3,rptpt4,right parahippocampal gyrus g,right parahippocampal gyrus g,phg,phg
+99,MS024,rptpt7-rptpt8,right,rptpt7,rptpt8,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+100,MS024,rptpt8-rptpt9,right,rptpt8,rptpt9,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+101,MS024,rptpt9-rptpt10,right,rptpt9,rptpt10,right superior middle temporal gyrus f,right superior middle temporal gyrus f,sts,sts
+0,MS025,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus f,left frontal pole 4 a,acc,vmpfc
+1,MS025,lacas2-lacas3,left,lacas2,lacas3,left frontal pole 4 a,left frontal pole 4 a,vmpfc,vmpfc
+2,MS025,lacas3-lacas4,left,lacas3,lacas4,left frontal pole 4 a,wm,vmpfc,
+4,MS025,lacas5-lacas6,left,lacas5,lacas6,left superior frontal gyrus 1 d,left superior frontal gyrus 1 d,dmpfc,dmpfc
+5,MS025,laglt2-laglt3,left,laglt2,laglt3,left amygdala inferior,left amygdala inferior,amy,amy
+6,MS025,laglt3-laglt4,left,laglt3,laglt4,left amygdala inferior,wm,amy,
+8,MS025,laglt7-laglt8,left,laglt7,laglt8,left superior middle temporal gyrus a,left inferior middle temporal gyrus a,sts,
+9,MS025,laglt8-laglt9,left,laglt8,laglt9,left inferior middle temporal gyrus a,left inferior middle temporal gyrus a,,
+10,MS025,lcmip1-lcmip2,left,lcmip1,lcmip2,left thalamus,left superior temporal gyrus g,,temporal
+11,MS025,lcmip2-lcmip3,left,lcmip2,lcmip3,left superior temporal gyrus g,wm,temporal,
+13,MS025,lcmip4-lcmip5,left,lcmip4,lcmip5,left thalamus,left thalamus,,
+14,MS025,lcmip5-lcmip6,left,lcmip5,lcmip6,left thalamus,left thalamus,,
+15,MS025,lcmip7-lcmip10,left,lcmip7,lcmip10,left thalamus,left thalamus,,
+16,MS025,lcmip10-lcmip11,left,lcmip10,lcmip11,left thalamus,left thalamus,,
+18,MS025,lhplt4-lhplt5,left,lhplt4,lhplt5,left hippocampus pes,left inferior middle temporal gyrus d,hpc,
+20,MS025,lhplt9-lhplt10,left,lhplt9,lhplt10,left inferior middle temporal gyrus c,left inferior middle temporal gyrus c,,
+21,MS025,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus i,left superior frontal gyrus 4 a,acc,dmpfc
+22,MS025,lmcms4-lmcms5,left,lmcms4,lmcms5,left superior frontal gyrus 4 a,wm,dmpfc,
+24,MS025,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 2 b,left frontal orbital 3 c,ofc,ofc
+25,MS025,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 3 c,left frontal orbital 3 c,ofc,ofc
+26,MS025,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 3 c,left frontal orbital 3 c,ofc,ofc
+27,MS025,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 c,wm,ofc,
+29,MS025,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal orbital 3 d,wm,ofc,
+31,MS025,lmtpt1-lmtpt2,left,lmtpt1,lmtpt2,left parahippocampal gyrus f,left inferior middle temporal gyrus f,phg,
+32,MS025,lmtpt2-lmtpt3,left,lmtpt2,lmtpt3,left parahippocampal gyrus f,left parahippocampal gyrus f,phg,phg
+34,MS025,lmtpt6-lmtpt7,left,lmtpt6,lmtpt7,left basal inferior temporal gyrus e,left basal inferior temporal gyrus e,,
+36,MS025,lmtpt8-lmtpt9,left,lmtpt8,lmtpt9,left lateral inferior temporal gyrus f,left lateral inferior temporal gyrus f,,
+37,MS025,lmtpt9-lmtpt10,left,lmtpt9,lmtpt10,left inferior middle temporal gyrus f,left inferior middle temporal gyrus f,,
+40,MS025,lpvnh3-lpvnh4,left,lpvnh3,lpvnh4,left parahippocampal gyrus g,left parahippocampal gyrus g,phg,phg
+41,MS025,lpvnh4-lpvnh5,left,lpvnh4,lpvnh5,left parahippocampal gyrus g,left parahippocampal gyrus g,phg,phg
+42,MS025,lpvnh5-lpvnh6,left,lpvnh5,lpvnh6,left parahippocampal gyrus g,left parahippocampal gyrus g,phg,phg
+43,MS025,lpvnh6-lpvnh7,left,lpvnh6,lpvnh7,left parahippocampal gyrus g,left parahippocampal gyrus g,phg,phg
+44,MS025,lpvnh7-lpvnh8,left,lpvnh7,lpvnh8,left parahippocampal gyrus g,left parahippocampal gyrus g,phg,phg
+45,MS025,lpvnh8-lpvnh9,left,lpvnh8,lpvnh9,left superior occipital gyrus a,left superior occipital gyrus a,,
+46,MS025,lpvnh9-lpvnh10,left,lpvnh9,lpvnh10,left inferior occipital gyrus b,left inferior occipital gyrus b,,
+47,MS025,lpvnh12-lpvnh13,left,lpvnh12,lpvnh13,left inferior occipital gyrus c superior,left inferior occipital gyrus c superior,,
+48,MS025,racas1-racas2,right,racas1,racas2,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+49,MS025,racas2-racas3,right,racas2,racas3,right cingulate gyrus d,right cingulate gyrus e,acc,acc
+50,MS025,racas3-racas4,right,racas3,racas4,right cingulate gyrus e,wm,acc,
+52,MS025,racas5-racas6,right,racas5,racas6,right cingulate gyrus f,right frontal pole 4 a,acc,vmpfc
+53,MS025,racas6-racas7,right,racas6,racas7,right frontal pole 4 a,wm,vmpfc,
+55,MS025,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+56,MS025,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,wm,amy,
+58,MS025,raglt6-raglt8,right,raglt6,raglt8,right superior middle temporal gyrus a,right superior middle temporal gyrus a,sts,sts
+59,MS025,raglt8-raglt9,right,raglt8,raglt9,right superior middle temporal gyrus a,right inferior middle temporal gyrus a,sts,
+60,MS025,rcmip1-rcmip2,right,rcmip1,rcmip2,right thalamus,right superior temporal gyrus g,,temporal
+62,MS025,rcmip3-rcmip4,right,rcmip3,rcmip4,right superior temporal gyrus g,right supramarginal gyrus 5 e,temporal,
+63,MS025,rcmip4-rcmip5,right,rcmip4,rcmip5,right supramarginal gyrus 5 e,right thalamus,,
+64,MS025,rcmip5-rcmip6,right,rcmip5,rcmip6,right thalamus,right thalamus,,
+65,MS025,rcmip11-rcmip12,right,rcmip11,rcmip12,right thalamus,right thalamus,,
+66,MS025,rcmip12-rcmip13,right,rcmip12,rcmip13,right thalamus,right thalamus,,
+67,MS025,rcmip13-rcmip14,right,rcmip13,rcmip14,right thalamus,wm,,
+68,MS025,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right inferior middle temporal gyrus c,hpc,
+70,MS025,rhplt8-rhplt9,right,rhplt8,rhplt9,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+71,MS025,rhplt9-rhplt10,right,rhplt9,rhplt10,right inferior middle temporal gyrus d,right inferior middle temporal gyrus d,,
+72,MS025,rmcms1-rmcms2,right,rmcms1,rmcms2,right mcgg middle cingulate gyrus,wm,,
+74,MS025,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus i,wm,acc,
+76,MS025,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+77,MS025,rmcms7-rmcms8,right,rmcms7,rmcms8,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+78,MS025,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 3 b,right frontal orbital 3 c,ofc,ofc
+79,MS025,rmolf2-rmolf3,right,rmolf2,rmolf3,right frontal orbital 3 c,right frontal orbital 3 c,ofc,ofc
+80,MS025,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 3 c,right frontal orbital 3 c,ofc,ofc
+81,MS025,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 3 c,right frontal orbital 3 d,ofc,ofc
+82,MS025,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 3 d,right frontal orbital 3 d,ofc,ofc
+83,MS025,rmolf6-rmolf7,right,rmolf6,rmolf7,right frontal orbital 3 d,right pars orbitalis b,ofc,ofc
+84,MS025,rpvnh1-rpvnh2,right,rpvnh1,rpvnh2,right parahippocampal gyrus g,right superior middle occipital gyrus d,phg,
+85,MS025,rpvnh2-rpvnh3,right,rpvnh2,rpvnh3,right parahippocampal gyrus g,right parahippocampal gyrus g,phg,phg
+86,MS025,rpvnh3-rpvnh4,right,rpvnh3,rpvnh4,right parahippocampal gyrus f,right parahippocampal gyrus f,phg,phg
+87,MS025,rpvnh4-rpvnh5,right,rpvnh4,rpvnh5,right inferior occipital gyrus a,right inferior occipital gyrus a,,
+88,MS025,rpvnh5-rpvnh6,right,rpvnh5,rpvnh6,right inferior occipital gyrus b,right inferior occipital gyrus b,,
+90,MS025,rpvnh9-rpvnh10,right,rpvnh9,rpvnh10,right superior middle occipital gyrus d,right superior middle occipital gyrus d,,
+0,MS026,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus c,left cingulate gyrus d,acc,acc
+1,MS026,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus d,wm,acc,
+3,MS026,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus f,wm,acc,
+5,MS026,lacas8-lacas9,left,lacas8,lacas9,left superior frontal gyrus 1 a,wm,dmpfc,
+6,MS026,laglt1-laglt2,left,laglt1,laglt2,left amygdala inferior,wm,amy,
+8,MS026,laglt5-laglt6,left,laglt5,laglt6,left superior temporal gyrus b,wm,temporal,
+10,MS026,laglt7-laglt8,left,laglt7,laglt8,left superior temporal gyrus b,wm,temporal,
+14,MS026,lcmsp3-lcmsp4,left,lcmsp3,lcmsp4,left superior middle occipital gyrus e,left superior middle occipital gyrus d,,
+15,MS026,lcmsp4-lcmsp5,left,lcmsp4,lcmsp5,left superior middle occipital gyrus d,left lateral occipitotemporal gyrus a,,
+16,MS026,lcmsp5-lcmsp6,left,lcmsp5,lcmsp6,left lateral occipitotemporal gyrus a,left basal inferior temporal gyrus d,,
+17,MS026,lcmsp6-lcmsp7,left,lcmsp6,lcmsp7,left basal inferior temporal gyrus d,left lateral occipitotemporal gyrus b,,
+18,MS026,lcmsp7-lcmsp8,left,lcmsp7,lcmsp8,left lateral occipitotemporal gyrus b,left basal inferior temporal gyrus e,,
+19,MS026,lcmsp11-lcmsp12,left,lcmsp11,lcmsp12,left basal inferior temporal gyrus e,left lateral occipitotemporal gyrus c,,
+20,MS026,lcmsp12-lcmsp13,left,lcmsp12,lcmsp13,left lateral occipitotemporal gyrus c,left lateral occipitotemporal gyrus c,,
+21,MS026,lcmsp13-lcmsp14,left,lcmsp13,lcmsp14,left lateral occipitotemporal gyrus c,wm,,
+26,MS026,lhtoc14-lhtoc15,left,lhtoc14,lhtoc15,left supramarginal gyrus 1 b,left supramarginal gyrus 1 b,,
+28,MS026,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus i,wm,acc,
+29,MS026,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 4 a,left frontal orbital 4 a,ofc,ofc
+30,MS026,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 4 a,wm,ofc,
+32,MS026,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 4 d,wm,ofc,
+34,MS026,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal orbital 4 d,wm,ofc,
+36,MS026,lmolf8-lmolf9,left,lmolf8,lmolf9,left pars orbitalis b,left anterior pars triangularis b,ofc,vlpfc
+39,MS026,racas7-racas8,right,racas7,racas8,right cingulate gyrus g,right superior frontal gyrus 1 a,acc,dmpfc
+40,MS026,racas10-racas11,right,racas10,racas11,right superior frontal gyrus 1 a,wm,dmpfc,
+41,MS026,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+42,MS026,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,right amygdala inferior,amy,amy
+43,MS026,raglt3-raglt4,right,raglt3,raglt4,right amygdala inferior,right amygdala inferior,amy,amy
+44,MS026,raglt4-raglt5,right,raglt4,raglt5,right amygdala inferior,wm,amy,
+46,MS026,raglt7-raglt8,right,raglt7,raglt8,right superior middle temporal gyrus b,right superior middle temporal gyrus b,sts,sts
+47,MS026,raglt8-raglt9,right,raglt8,raglt9,right superior middle temporal gyrus b,wm,sts,
+48,MS026,rcmsp1-rcmsp2,right,rcmsp1,rcmsp2,right lateral occipitotemporal gyrus a,right inferior middle occipital gyrus k,,
+49,MS026,rcmsp2-rcmsp3,right,rcmsp2,rcmsp3,right inferior middle occipital gyrus k,wm,,
+51,MS026,rcmsp9-rcmsp10,right,rcmsp9,rcmsp10,right inferior angular gyrus a,right inferior angular gyrus a,,
+52,MS026,rcmsp10-rcmsp11,right,rcmsp10,rcmsp11,right medial occipitotemporal gyrus d,right medial occipitotemporal gyrus d,,
+53,MS026,rcmsp11-rcmsp12,right,rcmsp11,rcmsp12,right medial occipitotemporal gyrus d,right medial occipitotemporal gyrus d,,
+55,MS026,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right superior middle temporal gyrus c,hpc,sts
+56,MS026,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,right hippocampus pes,hpc,hpc
+57,MS026,rhplt3-rhplt4,right,rhplt3,rhplt4,right hippocampus body,right hippocampus body,hpc,hpc
+58,MS026,rhplt4-rhplt5,right,rhplt4,rhplt5,right hippocampus body,right hippocampus body,hpc,hpc
+60,MS026,rhplt7-rhplt8,right,rhplt7,rhplt8,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+61,MS026,rhplt8-rhplt9,right,rhplt8,rhplt9,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+62,MS026,rhplt9-rhplt10,right,rhplt9,rhplt10,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+64,MS026,rhtoc12-rhtoc13,right,rhtoc12,rhtoc13,right superior parietal 1 g,wm,parietal,
+66,MS026,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus j,wm,acc,
+68,MS026,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 4 a,wm,ofc,
+70,MS026,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 4 c,wm,ofc,
+72,MS026,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 4 d,wm,ofc,
+74,MS026,rmolf7-rmolf8,right,rmolf7,rmolf8,right pars orbitalis b,right anterior pars triangularis a,ofc,vlpfc
+75,MS026,rmolf8-rmolf9,right,rmolf8,rmolf9,right anterior pars triangularis a,right anterior pars triangularis a,vlpfc,vlpfc
+0,MS027,lacas1-lacas2,left,lacas1,lacas2,left cingulate gyrus c,left cingulate gyrus c,acc,acc
+1,MS027,lacas2-lacas3,left,lacas2,lacas3,left cingulate gyrus c,wm,acc,
+3,MS027,lacas6-lacas7,left,lacas6,lacas7,left cingulate gyrus f,left cingulate gyrus g,acc,acc
+4,MS027,lacas7-lacas8,left,lacas7,lacas8,left cingulate gyrus g,left superior frontal gyrus 1 a,acc,dmpfc
+5,MS027,lacas8-lacas9,left,lacas8,lacas9,left superior frontal gyrus 1 a,left superior frontal gyrus 1 a,dmpfc,dmpfc
+6,MS027,lacas9-lacas10,left,lacas9,lacas10,left superior frontal gyrus 1 a,wm,dmpfc,
+9,MS027,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus i,wm,acc,
+10,MS027,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 3 a,left frontal orbital 3 a,ofc,ofc
+11,MS027,lmolf2-lmolf3,left,lmolf2,lmolf3,left frontal orbital 3 a,wm,ofc,
+13,MS027,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 3 c,left frontal orbital 3 d,ofc,ofc
+14,MS027,lmolf5-lmolf6,left,lmolf5,lmolf6,left frontal orbital 3 d,left frontal orbital 3 d,ofc,ofc
+15,MS027,lmolf6-lmolf7,left,lmolf6,lmolf7,left frontal orbital 3 d,left pars orbitalis a,ofc,ofc
+16,MS027,lmolf7-lmolf8,left,lmolf7,lmolf8,left pars orbitalis a,wm,ofc,
+18,MS027,lmolf9-lmolf10,left,lmolf9,lmolf10,left pars orbitalis b,left anterior pars triangularis a,ofc,vlpfc
+19,MS027,liisp1-liisp2,left,liisp1,liisp2,left posterior short insular gyrus c,left posterior short insular gyrus c,pins,pins
+20,MS027,liisp2-liisp3,left,liisp2,liisp3,left posterior short insular gyrus c,left posterior short insular gyrus b,pins,pins
+21,MS027,liisp3-liisp4,left,liisp3,liisp4,left posterior short insular gyrus b,left posterior short insular gyrus b,pins,pins
+22,MS027,liisp4-liisp5,left,liisp4,liisp5,left posterior short insular gyrus b,left posterior short insular gyrus a,pins,pins
+23,MS027,liisp5-liisp6,left,liisp5,liisp6,left posterior short insular gyrus a,left posterior short insular gyrus a,pins,pins
+24,MS027,liisp6-liisp7,left,liisp6,liisp7,left posterior short insular gyrus a,wm,pins,
+26,MS027,lence2-lence3,left,lence2,lence3,left inferior temporal pole b,left inferior temporal pole b,temporal pole,temporal pole
+27,MS027,lence3-lence4,left,lence3,lence4,left inferior temporal pole b,left inferior middle temporal pole c,temporal pole,temporal pole
+28,MS027,lence4-lence5,left,lence4,lence5,left inferior middle temporal pole c,left superior middle temporal pole d,temporal pole,temporal pole
+29,MS027,lence5-lence6,left,lence5,lence6,left superior middle temporal pole d,left superior middle temporal pole d,temporal pole,temporal pole
+30,MS027,laglt1-laglt2,left,laglt1,laglt2,left amygdala inferior,left amygdala inferior,amy,amy
+31,MS027,laglt2-laglt3,left,laglt2,laglt3,left amygdala inferior,left amygdala inferior,amy,amy
+32,MS027,laglt3-laglt4,left,laglt3,laglt4,left amygdala inferior,wm,amy,
+34,MS027,laglt7-laglt8,left,laglt7,laglt8,left superior temporal gyrus b,left superior middle temporal gyrus b,temporal,sts
+35,MS027,laglt8-laglt9,left,laglt8,laglt9,left superior middle temporal gyrus b,left superior middle temporal gyrus b,sts,sts
+36,MS027,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+37,MS027,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus body,hpc,hpc
+39,MS027,racas2-racas3,right,racas2,racas3,right cingulate gyrus c,wm,acc,
+41,MS027,racas6-racas7,right,racas6,racas7,right cingulate gyrus f,wm,acc,
+43,MS027,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus h,right cingulate gyrus h,acc,acc
+44,MS027,rmcms2-rmcms3,right,rmcms2,rmcms3,right cingulate gyrus h,right superior frontal gyrus 3 a,acc,dmpfc
+45,MS027,rmcms3-rmcms4,right,rmcms3,rmcms4,right superior frontal gyrus 3 a,right superior frontal gyrus 3 a,dmpfc,dmpfc
+46,MS027,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 3 a,wm,dmpfc,
+48,MS027,rmcms6-rmcms7,right,rmcms6,rmcms7,right superior frontal gyrus 4 d,right superior frontal gyrus 4 d,dmpfc,dmpfc
+49,MS027,rmcms7-rmcms8,right,rmcms7,rmcms8,right superior frontal gyrus 4 d,right superior frontal gyrus 4 d,dmpfc,dmpfc
+51,MS027,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 3c,wm,,
+53,MS027,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 3 d,right frontal orbital 3 d,ofc,ofc
+54,MS027,rmolf6-rmolf7,right,rmolf6,rmolf7,right frontal orbital 3 d,wm,ofc,
+56,MS027,rmolf9-rmolf10,right,rmolf9,rmolf10,right anterior pars triangularis a,right anterior pars triangularis a,vlpfc,vlpfc
+57,MS027,raisp1-raisp2,right,raisp1,raisp2,right posterior short insular gyrus c,right posterior short insular gyrus c,pins,pins
+58,MS027,raisp2-raisp3,right,raisp2,raisp3,right posterior short insular gyrus c,right posterior short insular gyrus b,pins,pins
+59,MS027,raisp3-raisp4,right,raisp3,raisp4,right posterior short insular gyrus b,wm,pins,
+61,MS027,raisp5-raisp6,right,raisp5,raisp6,right anterior long insular gyrus b,right anterior long insular gyrus b,pins,pins
+62,MS027,raisp6-raisp7,right,raisp6,raisp7,right anterior long insular gyrus b,right anterior long insular gyrus a,pins,pins
+63,MS027,raisp7-raisp8,right,raisp7,raisp8,right anterior long insular gyrus a,right anterior long insular gyrus a,pins,pins
+64,MS027,raisp8-raisp9,right,raisp8,raisp9,right anterior long insular gyrus a,right supramarginal gyrus 1 e,pins,
+65,MS027,raisp9-raisp10,right,raisp9,raisp10,right supramarginal gyrus 1 e,right supramarginal gyrus 1 e,,
+66,MS027,raisp10-raisp11,right,raisp10,raisp11,right supramarginal gyrus 1 e,wm,,
+68,MS027,raisp14-raisp15,right,raisp14,raisp15,right superior parietal 2 d,right superior parietal 2 d,parietal,parietal
+69,MS027,raisp15-raisp16,right,raisp15,raisp16,right superior parietal 2 d,right supramarginal gyrus 4 a,parietal,
+70,MS027,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+71,MS027,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,right amygdala superior,amy,amy
+72,MS027,raglt3-raglt4,right,raglt3,raglt4,right amygdala superior,wm,amy,
+74,MS027,raglt5-raglt6,right,raglt5,raglt6,right superior temporal gyrus b,right superior temporal gyrus b,temporal,temporal
+75,MS027,raglt6-raglt7,right,raglt6,raglt7,right superior temporal gyrus b,wm,temporal,
+77,MS027,raglt8-raglt9,right,raglt8,raglt9,right superior temporal gyrus c,wm,temporal,
+79,MS027,rhplt1-rhplt2,right,rhplt1,rhplt2,right hippocampus pes,right hippocampus pes,hpc,hpc
+80,MS027,rhplt2-rhplt3,right,rhplt2,rhplt3,right hippocampus pes,right hippocampus body,hpc,hpc
+81,MS027,rhplt3-rhplt4,right,rhplt3,rhplt4,right hippocampus body,wm,hpc,
+83,MS027,rhplt8-rhplt9,right,rhplt8,rhplt9,right inferior middle temporal gyrus d,right inferior middle temporal gyrus d,,
+0,MS028,laglt1-laglt2,left,laglt1,laglt2,left amygdala superior,left amygdala superior,amy,amy
+1,MS028,laglt2-laglt3,left,laglt2,laglt3,left amygdala superior,wm,amy,
+3,MS028,laglt4-laglt5,left,laglt4,laglt5,left superior temporal gyrus a,left superior temporal gyrus a,temporal,temporal
+4,MS028,laglt5-laglt6,left,laglt5,laglt6,left superior temporal gyrus a,wm,temporal,
+6,MS028,laglt7-laglt8,left,laglt7,laglt8,left superior temporal gyrus a,left superior temporal gyrus a,temporal,temporal
+7,MS028,lcmmm1-lcmmm2,left,lcmmm1,lcmmm2,left thalamus,left thalamus,,
+8,MS028,lcmmm2-lcmmm3,left,lcmmm2,lcmmm3,left thalamus,left thalamus,,
+9,MS028,lcmmm3-lcmmm4,left,lcmmm3,lcmmm4,left thalamus,left thalamus,,
+10,MS028,lcmmm4-lcmmm5,left,lcmmm4,lcmmm5,left thalamus,left caudate,,
+11,MS028,lcmmm5-lcmmm6,left,lcmmm5,lcmmm6,left caudate,wm,,
+12,MS028,lhplt1-lhplt2,left,lhplt1,lhplt2,left hippocampus pes,left hippocampus pes,hpc,hpc
+13,MS028,lhplt2-lhplt3,left,lhplt2,lhplt3,left hippocampus pes,left hippocampus pes,hpc,hpc
+14,MS028,lhplt3-lhplt4,left,lhplt3,lhplt4,left hippocampus pes,left hippocampus pes,hpc,hpc
+15,MS028,lhplt4-lhplt5,left,lhplt4,lhplt5,left hippocampus pes,wm,hpc,
+18,MS028,lacas4-lacas5,left,lacas4,lacas5,left cingulate gyrus g,left cingulate gyrus g,acc,acc
+19,MS028,lacas5-lacas6,left,lacas5,lacas6,left cingulate gyrus g,left superior frontal gyrus 1 a,acc,dmpfc
+20,MS028,lacas6-lacas7,left,lacas6,lacas7,left superior frontal gyrus 1 a,wm,dmpfc,
+22,MS028,laips1-laips2,left,laips1,laips2,left middle short insular gyrus b,left superior frontal gyrus 3 d,ains,dmpfc
+23,MS028,laips2-laips3,left,laips2,laips3,left superior frontal gyrus 3 d,wm,dmpfc,
+25,MS028,laips4-laips5,left,laips4,laips5,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+26,MS028,laips8-laips9,left,laips8,laips9,left anterior short insular gyrus b,left anterior short insular gyrus b,ains,ains
+27,MS028,laips9-laips10,left,laips9,laips10,left anterior short insular gyrus a,left anterior short insular gyrus a,ains,ains
+28,MS028,laips10-laips11,left,laips10,laips11,left pars opercularis c,left pars opercularis c,vlpfc,vlpfc
+30,MS028,laips12-laips13,left,laips12,laips13,left superior frontal gyrus 4 d,left superior frontal gyrus 4 d,dmpfc,dmpfc
+31,MS028,lmcms1-lmcms2,left,lmcms1,lmcms2,left cingulate gyrus h,left cingulate gyrus h,acc,acc
+32,MS028,lmcms2-lmcms3,left,lmcms2,lmcms3,left cingulate gyrus h,left cingulate gyrus h,acc,acc
+33,MS028,lmcms3-lmcms4,left,lmcms3,lmcms4,left cingulate gyrus h,left cingulate gyrus h,acc,acc
+34,MS028,lmcms4-lmcms5,left,lmcms4,lmcms5,left cingulate gyrus h,wm,acc,
+36,MS028,lmcms6-lmcms7,left,lmcms6,lmcms7,left superior frontal gyrus 4 b,wm,dmpfc,
+38,MS028,lmolf1-lmolf2,left,lmolf1,lmolf2,left frontal orbital 5 b,wm,ofc,
+40,MS028,lmolf3-lmolf4,left,lmolf3,lmolf4,left frontal orbital 4 d,left frontal orbital 4 d,ofc,ofc
+41,MS028,lmolf4-lmolf5,left,lmolf4,lmolf5,left frontal orbital 4 d,wm,ofc,
+43,MS028,lmolf7-lmolf8,left,lmolf7,lmolf8,left anterior pars triangularis b,wm,vlpfc,
+45,MS028,raglt1-raglt2,right,raglt1,raglt2,right amygdala inferior,right amygdala inferior,amy,amy
+46,MS028,raglt2-raglt3,right,raglt2,raglt3,right amygdala inferior,wm,amy,
+49,MS028,raglt6-raglt7,right,raglt6,raglt7,right superior middle temporal gyrus a,right inferior middle temporal gyrus a,sts,
+50,MS028,rcmmm1-rcmmm2,right,rcmmm1,rcmmm2,right thalamus,right middle frontal gyrus 5 a,,dlpfc
+52,MS028,rcmmm3-rcmmm4,right,rcmmm3,rcmmm4,right thalamus,right thalamus,,
+53,MS028,rcmmm4-rcmmm5,right,rcmmm4,rcmmm5,right thalamus,right thalamus,,
+54,MS028,rcmmm5-rcmmm6,right,rcmmm5,rcmmm6,right thalamus,right caudate,,
+55,MS028,rcmmm6-rcmmm7,right,rcmmm6,rcmmm7,right caudate,right caudate,,
+56,MS028,rcmmm12-rcmmm13,right,rcmmm12,rcmmm13,right caudate,wm,,
+57,MS028,rhplt1-rhplt3,right,rhplt1,rhplt3,right hippocampus pes,right hippocampus body,hpc,hpc
+58,MS028,rhplt3-rhplt4,right,rhplt3,rhplt4,right hippocampus body,wm,hpc,
+60,MS028,rhplt5-rhplt6,right,rhplt5,rhplt6,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+61,MS028,rhplt6-rhplt7,right,rhplt6,rhplt7,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+62,MS028,rhplt7-rhplt8,right,rhplt7,rhplt8,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+63,MS028,rhplt8-rhplt9,right,rhplt8,rhplt9,right superior middle temporal gyrus c,right superior middle temporal gyrus c,sts,sts
+64,MS028,rims1-rims2,right,rims1,rims2,right posterior short insular gyrus c,wm,pins,
+66,MS028,rims3-rims4,right,rims3,rims4,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+67,MS028,rims4-rims5,right,rims4,rims5,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+68,MS028,rims5-rims6,right,rims5,rims6,right superior frontal gyrus 3 d,right superior frontal gyrus 3 d,dmpfc,dmpfc
+69,MS028,rims8-rims9,right,rims8,rims9,right posterior short insular gyrus c,right posterior short insular gyrus c,pins,pins
+70,MS028,rims9-rims10,right,rims9,rims10,right middle short insular gyrus b,right middle short insular gyrus b,ains,ains
+71,MS028,rims10-rims11,right,rims10,rims11,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+72,MS028,rims11-rims12,right,rims11,rims12,right anterior short insular gyrus a,right anterior short insular gyrus a,ains,ains
+74,MS028,rims13-rims14,right,rims13,rims14,right middle frontal gyrus 4 a,right middle frontal gyrus 4 a,dlpfc,dlpfc
+75,MS028,racas1-racas2,right,racas1,racas2,right cingulate gyrus c,right superior frontal gyrus 2 c,acc,dmpfc
+76,MS028,racas2-racas3,right,racas2,racas3,right superior frontal gyrus 2 c,right superior frontal gyrus 2 c,dmpfc,dmpfc
+77,MS028,racas3-racas4,right,racas3,racas4,right cingulate gyrus d,right cingulate gyrus d,acc,acc
+79,MS028,racas5-racas6,right,racas5,racas6,right cingulate gyrus f,right cingulate gyrus f,acc,acc
+80,MS028,racas6-racas7,right,racas6,racas7,right cingulate gyrus f,right cingulate gyrus f,acc,acc
+81,MS028,racas7-racas8,right,racas7,racas8,right cingulate gyrus g,right cingulate gyrus g,acc,acc
+82,MS028,racas8-racas9,right,racas8,racas9,right superior frontal gyrus 1 a,right superior frontal gyrus 1 a,dmpfc,dmpfc
+83,MS028,racas9-racas10,right,racas9,racas10,right superior frontal gyrus 1 a,right superior frontal gyrus 1 a,dmpfc,dmpfc
+85,MS028,rmcms1-rmcms2,right,rmcms1,rmcms2,right cingulate gyrus h,wm,acc,
+87,MS028,rmcms3-rmcms4,right,rmcms3,rmcms4,right cingulate gyrus i,right superior frontal gyrus 3 a,acc,dmpfc
+88,MS028,rmcms4-rmcms5,right,rmcms4,rmcms5,right superior frontal gyrus 3 a,right superior frontal gyrus 4 a,dmpfc,dmpfc
+89,MS028,rmcms5-rmcms6,right,rmcms5,rmcms6,right superior frontal gyrus 4 a,wm,dmpfc,
+91,MS028,rmcms8-rmcms9,right,rmcms8,rmcms9,right superior frontal gyrus 4 c,right superior frontal gyrus 4 d,dmpfc,dmpfc
+92,MS028,rmolf1-rmolf2,right,rmolf1,rmolf2,right frontal orbital 5 a,right frontal orbital 5 a,ofc,ofc
+93,MS028,rmolf2-rmolf3,right,rmolf2,rmolf3,right frontal orbital 5 a,right frontal orbital 5 a,ofc,ofc
+94,MS028,rmolf3-rmolf4,right,rmolf3,rmolf4,right frontal orbital 5 a,right frontal orbital 5 c,ofc,ofc
+95,MS028,rmolf4-rmolf5,right,rmolf4,rmolf5,right frontal orbital 5 c,right frontal orbital 5 c,ofc,ofc
+96,MS028,rmolf5-rmolf6,right,rmolf5,rmolf6,right frontal orbital 5 c,wm,ofc,
+98,MS028,rmolf7-rmolf8,right,rmolf7,rmolf8,right frontal orbital 4 d,right frontal orbital 4 d,ofc,ofc
+99,MS028,rmolf8-rmolf9,right,rmolf8,rmolf9,right frontal orbital 4 d,right anterior pars triangularis b,ofc,vlpfc
