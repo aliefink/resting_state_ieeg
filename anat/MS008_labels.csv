@@ -1,145 +1,145 @@
-label,BN246label,x,y,z,mni_x,mni_y,mni_z,gm,NMM,Anat,AnatMacro,BN246,YBA_1,Manual Examination,Notes
-LaCas1,A13_L,-9.181259155,37.59515065,0.39977169,-7.760768384,29.35103747,-16.33416241,White,Left MFC medial frontal cortex,Area s32,L Rectal Gyrus,L OrG,Left frontal pole 1 B,WM,
-LaCas10,A9/46d_L,-25.54785156,38.39504749,40.77702546,-27.10880217,42.2882393,30.74282435,Gray,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 3 A,,
-LaCas11,A9/46d_L,-27.14459229,38.7949959,45.57432294,-28.90637825,44.08160566,36.22853748,Gray,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 3 B,,
-LaCas12,Unknown,-28.74133301,38.7949959,50.37162042,-30.69432643,45.53001121,41.86293108,Unknown,Unknown,Unknown,L Superior Frontal Gyrus,Unknown,Left middle frontal gyrus 3 B,OOB,
-LaCas2,A13_L,-11.17718506,37.19520223,4.797294378,-10.27508654,30.39679142,-11.02794067,White,Left ACgG anterior cingulate gyrus,Area s32,L Mid Orbital Gyrus,L OrG,Left cingulate gyrus C,WM,
-LaCas3,Unknown,-12.77392578,36.79525381,9.594591856,-12.30770984,31.54232692,-5.263482233,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LaCas4,Unknown,-14.3706665,36.79525381,13.99211454,-14.17766344,32.94577322,-0.11782898,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LaCas5,Unknown,-16.36659241,36.79525381,18.78941202,-16.46750952,34.44372621,5.515178366,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LaCas6,Unknown,-18.36251831,36.79525381,23.18693471,-18.76095835,35.74880543,10.66821999,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LaCas7,Unknown,-20.35844421,36.79525381,27.5844574,-21.07772956,37.01464052,15.81519948,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LaCas8,A9/46d_L,-21.95518494,37.19520223,32.38175488,-22.93768298,38.74772667,21.32695286,White,Left Cerebral White Matter,Unknown,L Middle Frontal Gyrus,L MFG,Unknown,Left middle frontal gyrus 2 A,
-LaCas9,A9/46d_L,-23.95111084,37.99509907,36.77927756,-25.24446884,40.76948498,26.19903631,White,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 2 A,,
-LAgIT1,rHipp_L,-23.15274048,6.799122453,-10.39414763,-22.47028998,-6.366428323,-19.65530816,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,
-LAgIT2,rHipp_L,-27.94296265,5.999225616,-10.79392242,-27.65462862,-7.225541556,-19.75525023,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,
-LAgIT3,lAmyg_L,-32.73318481,5.599277198,-11.19369721,-32.95503099,-7.566912765,-19.9920704,Gray,Left Cerebral White Matter,CA1 (Hippocampus),L Hippocampus,L Amyg,Unknown,Left amygdala superior ,border
-LAgIT4,Unknown,-37.92259216,4.799380362,-11.593472,-38.92955059,-8.333618475,-20.239207,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LAgIT5,Unknown,-43.11199951,4.399431944,-11.99324679,-44.85270115,-8.621618067,-20.76953648,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,WM,
-LAgIT6,aSTS_L,-47.90222168,3.599535108,-12.39302158,-50.26602557,-9.341456822,-21.34218533,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus A,WM,
-LAgIT7,A21r_L,-52.69244385,3.199586689,-13.19257116,-55.61163932,-9.827594199,-22.66732561,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus A,,
-LAgIT8,A21r_L,-57.8818512,2.399689853,-13.59234595,-61.44057106,-10.58104113,-23.3612268,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus B,,
-LHpIT1,rHipp_L,-23.95111084,-4.399433255,-13.59234595,-23.78528038,-18.88227373,-20.14193982,Gray,Left Hippocampus,Subiculum,L Hippocampus,L Hipp,Left hippocampus pes,,subiculum
-LHpIT10,Unknown,-67.06311035,-16.3978858,-5.996624947,-72.0343863,-28.01902501,-10.11406681,Unknown,Unknown,Unknown,Unknown,Unknown,Left superior middle temporal gyrus C,OOB,
-LHpIT2,cHipp_L,-28.74133301,-5.59927851,-12.39302158,-29.21029733,-19.68960179,-18.31268539,Gray,Left Hippocampus,DG (Hippocampus),L Hippocampus,L Hipp,Left hippocampus pes,,CA1
-LHpIT3,cHipp_L,-33.53155518,-6.799123764,-11.19369721,-34.6867041,-20.47522494,-16.55855338,Gray,Left Hippocampus,CA2 (Hippocampus),L Hippocampus,L Hipp,Left hippocampus body ,,CA1
-LHpIT4,A20rv_L,-38.32177734,-7.998969018,-10.39414763,-40.14145559,-21.40499855,-15.4955145,White,Left Cerebral White Matter,Unknown,L Inferior Temporal Gyrus,L FuG,Unknown,WM,
-LHpIT5,Unknown,-43.11199951,-9.198814273,-9.594598055,-45.46514864,-22.34743701,-14.59910909,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,WM,
-LHpIT6,aSTS_L,-47.90222168,-10.39865953,-8.395273685,-50.78320909,-23.20664756,-13.40236951,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,WM,
-LHpIT7,aSTS_L,-52.29325867,-11.9984532,-7.595724106,-55.63561939,-24.5451943,-12.38292012,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,,
-LHpIT8,aSTS_L,-57.08348083,-13.19829845,-6.796174526,-60.88231729,-25.3967103,-11.40588984,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,WM,
-LHpIT9,A21c_L,-62.67207336,-15.19804054,-5.996624947,-67.09013761,-27.00661459,-10.18915668,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,,
-LmCmS1,A24rv_L,-7.185333252,9.998709798,27.5844574,-6.261865233,8.819247564,25.76734398,White,Left MCgG middle cingulate gyrus,Area 33,L ACC,L CG,Unknown,WM,
-LmCmS2,A24cd_L,-9.181259155,11.19855505,31.5822053,-8.473631333,11.16140913,29.89919608,White,Left Cerebral White Matter,Unknown,Unknown,L CG,Unknown,WM,
-LmCmS3,A24cd_L,-11.57637024,11.99845189,35.97972798,-11.28085937,13.15306553,34.47296986,White,Left SMC supplementary motor cortex,Unknown,L MCC,L CG,Left cingulate gyrus J,WM,
-LmCmS4,Unknown,-13.17311096,13.19829714,40.37725067,-13.07301041,15.63756212,39.03825586,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Left superior frontal gyrus 4 A,WM,
-LmCmS5,Unknown,-15.16903687,14.3981424,44.77477336,-15.32292518,18.17431808,43.62077352,White,Left Cerebral White Matter,Unknown,L Superior Frontal Gyrus,Unknown,Unknown,WM,
-LmCmS6,A8dl_L,-16.76577759,15.59798765,49.17229605,-17.2009829,20.73739776,48.29650147,White,Left Cerebral White Matter,Unknown,L Middle Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,WM,
-LmCmS7,A8dl_L,-18.76170349,16.79783291,53.56981874,-19.45174721,23.29178634,52.93525021,White,Left SFG superior frontal gyrus,Unknown,L Superior Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,,
-LmCmS8,A8dl_L,-20.35844421,17.99767816,57.96734142,-21.26720976,25.80647297,57.60637911,Gray,Left SFG superior frontal gyrus,Unknown,L Superior Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,OOB,
-LmOIF1,A11m_L,-7.185333252,46.79396427,-8.395273685,-4.101778601,35.95614204,-29.96610961,Gray,Left GRe gyrus rectus,Area Fo1,Unknown,L OrG,Left frontal orbital 4 A,,
-LmOIF10,A45r_L,-44.70874023,41.19468641,14.79166412,-48.01135155,37.71425803,-1.745862297,Gray,Left TrIFG triangular part of the inferior frontal gyrus,Unknown,L IFG (p Triangularis),L IFG,Left anterior pars triangularis A,,
-LmOIF2,A11m_L,-11.17718506,45.99406743,-5.596850157,-8.631672246,35.92529689,-26.59053945,Gray,Left MOrG medial orbital gyrus,Area Fo1,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 B,,
-LmOIF3,A11l_L,-15.56822205,45.19417059,-3.198201418,-13.6811932,35.80564761,-23.75690236,White,Left MOrG medial orbital gyrus,Area Fo1,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 B,,
-LmOIF4,A11l_L,-19.56007385,44.39427376,-0.399777889,-18.44951766,35.89201801,-20.56187501,Gray,Left MOrG medial orbital gyrus,Area Fo3,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 C,,
-LmOIF5,A11l_L,-23.95111084,43.59437692,1.99887085,-23.57848663,35.84523205,-17.87055396,Gray,Left MOrG medial orbital gyrus,Area Fo3,L Middle Orbital Gyrus,L OrG,Left frontal orbital 4 C,,
-LmOIF6,A11l_L,-27.94296265,43.1944285,4.797294378,-28.24194512,36.31126362,-14.59595411,Gray,Left AOrG anterior orbital gyrus,Area Fo3,L Middle Orbital Gyrus,L OrG,Left frontal orbital 4 D,,
-LmOIF7,A12/47o_L,-32.33399963,42.79448009,7.195943117,-33.27848564,36.67383521,-11.65561303,Gray,Left LOrG lateral orbital gyrus,Unknown,L IFG (p Orbitalis),L OrG,Left frontal orbital 4 D,,
-LmOIF8,A12/47o_L,-36.32585144,42.39453167,9.994366646,-37.92777501,37.22944688,-8.045469553,Gray,Left Cerebral White Matter,Unknown,L IFG (p Orbitalis),L OrG,Left frontal orbital 4 D,,
-LmOIF9,A45r_L,-40.71688843,41.99458325,12.39301538,-43.09665402,37.62750579,-4.883725935,White,Left Cerebral White Matter,Unknown,L IFG (p Orbitalis),L IFG,Left anterior pars triangularis A,,
-LmTpT1,cHipp_L,-16.76577759,-28.79628676,-3.198201418,-17.12969286,-41.46073854,0.24948128,Gray,Left Hippocampus,CA1 (Hippocampus),L Precuneus,L Hipp,Left cingulate gyrus R,Left hippocampus tail ,subiculum
-LmTpT10,A37dl_L,-55.08755493,-52.39324343,-2.798426628,-60.02342092,-66.5140535,5.881321881,Unknown,Left MTG middle temporal gyrus,Unknown,Unknown,L MTG,Left inferior middle temporal gyrus G,OOB,
-LmTpT2,cHipp_L,-21.15681458,-31.59592569,-3.198201418,-22.12751225,-44.33029294,0.868666494,White,Left Cerebral White Matter,Unknown,L Lingual Gyrus,L Hipp,Unknown,WM,
-LmTpT3,Unknown,-25.14866638,-34.39556462,-3.198201418,-26.684765,-47.42556534,1.517130322,White,Left Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,OOB,
-LmTpT4,Unknown,-29.53970337,-36.79525512,-3.198201418,-31.72688419,-50.06462842,2.091502172,White,Left Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,WM,
-LmTpT5,Unknown,-33.93074036,-39.59489405,-3.198201418,-36.59740785,-53.22059089,2.528277541,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-LmTpT6,Unknown,-37.92259216,-41.99458456,-3.198201418,-40.99311738,-55.91356989,2.902992294,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,Left superior middle temporal gyrus G,
-LmTpT7,A37dl_L,-42.31362915,-44.79422349,-2.798426628,-45.85156001,-58.80057562,3.924390478,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus G,,
-LmTpT8,A37dl_L,-46.70466614,-47.193914,-2.798426628,-50.73247424,-61.26749054,4.481301124,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus G,WM,
-LmTpT9,A37dl_L,-51.09570313,-49.99355292,-2.798426628,-55.67115452,-64.1534784,5.236577587,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus G,,
-RaCas1,A13_R,3.193481445,41.19468641,-0.799552679,6.477375991,32.98929029,-18.57581279,White,Right MFC medial frontal cortex,Area Fo1,R Rectal Gyrus,R OrG,Right frontal pole 1 B,WM,
-RaCas10,Unknown,8.382888794,29.9961307,41.97634983,11.67965929,33.75274251,36.30655325,White,Right Cerebral White Matter,Unknown,R Superior Medial Gyrus,Unknown,Right superior frontal gyrus 3 A,,
-RaCas11,Unknown,9.181259155,28.79628545,46.37387252,12.49773703,33.6535841,41.86724789,White,Right Cerebral White Matter,Unknown,R Superior Medial Gyrus,Unknown,Unknown,WM,
-RaCas12,A9l_R,9.979629517,27.5964402,51.17117,13.0505973,33.66394162,47.86630319,White,Right SFG superior frontal gyrus,Unknown,R Superior Medial Gyrus,R SFG,Right superior frontal gyrus 3 C,,
-RaCas13,A9l_R,10.77799988,26.39659494,55.96846747,13.66606536,33.79085167,53.90594638,Gray,Right SFG superior frontal gyrus,Unknown,R Superior Frontal Gyrus,R SFG,Right superior frontal gyrus 4 C,OOB,
-RaCas14,A9l_R,11.17718506,24.39685285,59.96621537,13.90036962,32.83977035,59.19998081,Unknown,Right SFG superior frontal gyrus,Unknown,R Superior Medial Gyrus,R SFG,Right superior frontal gyrus 4 C,OOB,
-RaCas2,A14m_R,3.592666626,39.99484116,3.997744799,6.668987745,33.39677756,-12.43141224,Gray,Right MFC medial frontal cortex,Area s32,R Mid Orbital Gyrus,R OrG,Right frontal pole 1 B,WM,
-RaCas3,A14m_R,4.391036987,38.7949959,8.795042276,7.201903574,33.82269497,-6.276812044,Gray,Right ACgG anterior cingulate gyrus,Area s32,R ACC,R OrG,Right cingulate gyrus D,,
-RaCas4,A24rv_R,4.790222168,37.19520223,13.59233975,7.364905536,33.79991342,0.059705654,Gray,Right ACgG anterior cingulate gyrus,Area 33,R ACC,R CG,Right cingulate gyrus D,,
-RaCas5,A24rv_R,5.588592529,35.99535698,18.38963723,8.111361799,34.09257437,6.314256233,Gray,Right ACgG anterior cingulate gyrus,Area 33,R ACC,R CG,Unknown,WM,
-RaCas6,A24rv_R,5.98777771,34.79551172,23.18693471,8.556777205,34.15860733,12.53509813,Gray,Right ACgG anterior cingulate gyrus,Unknown,R ACC,R CG,Unknown,WM,
-RaCas7,A32p_R,6.386962891,33.59566647,27.98423219,9.184104034,34.11589136,18.67460785,Gray,Right ACgG anterior cingulate gyrus,Unknown,R ACC,R CG,Right cingulate gyrus G,,
-RaCas8,A32p_R,7.185333252,32.39582121,32.78152966,10.23876223,33.99886883,24.71699921,Gray,Right MSFG superior frontal gyrus medial segment,Unknown,R ACC,R CG,Right superior frontal gyrus 2 A,,
-RaCas9,A9m_R,7.584518433,31.19597596,37.57882714,10.72595023,33.88797576,30.73250409,White,Right MSFG superior frontal gyrus medial segment,Unknown,R MCC,R SFG,Right superior frontal gyrus 2 A,WM,
-RAgIT1,mAmyg_R,19.56007385,13.19829714,-18.78941822,23.96514904,-1.462127175,-29.44708862,Gray,Right Amygdala,Amygdala (LB),R ParaHippocampal Gyrus,R Amyg,Right amygdala inferior,,
-RAgIT10,Unknown,43.11199951,-24.79680258,-11.19369721,51.091409,-39.05661641,-8.460871401,Gray,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,Unknown,Unknown,lesion,
-RAgIT11,A21c_R,45.5071106,-28.79628676,-10.39414763,53.57825278,-43.13783168,-6.446939154,White,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus E,,
-RAgIT12,A37dl_R,48.30140686,-33.19571936,-9.594598055,56.49864407,-47.70024553,-4.286846881,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus E,,
-RAgIT13,A37dl_R,51.09570313,-37.19520354,-8.395273685,59.48249835,-51.67333759,-1.619643673,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right superior middle temporal gyrus E,,
-RAgIT14,A37dl_R,54.28918457,-41.59463614,-7.595724106,62.9739458,-56.06924511,0.866073269,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus F,OOB,
-RAgIT15,Unknown,57.48266602,-45.19417191,-6.796174526,66.45060367,-59.54115913,3.173107998,Unknown,Unknown,Unknown,R Middle Temporal Gyrus,Unknown,Unknown,OOB,
-RAgIT16,Unknown,60.27696228,-49.59360451,-5.197075367,69.24234616,-63.61701005,6.639284189,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,
-RAgIT2,rHipp_R,21.95518494,9.198812962,-18.38964343,26.6680514,-5.548680221,-27.54733125,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right amygdala inferior,,
-RAgIT3,rHipp_R,24.7494812,4.799380362,-17.59009385,29.81189135,-10.00152469,-25.0590341,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,CA1/next to lesion
-RAgIT4,cHipp_R,27.54377747,0.399947762,-16.79054427,33.01583559,-14.39028417,-22.53764813,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,CA1/next to lesion
-RAgIT5,cHipp_R,29.93888855,-3.599536419,-15.99099469,35.85179556,-18.23631013,-20.23354295,Gray,Right Hippocampus,CA1 (Hippocampus),R ParaHippocampal Gyrus,R Hipp,Right hippocampus pes,,CA1/next to lesion
-RAgIT6,cHipp_R,32.73318481,-7.998969018,-14.79167032,39.04844505,-22.45192459,-17.45666588,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Unknown,lesion,
-RAgIT7,A20rv_R,35.1282959,-11.9984532,-13.99212074,41.86945073,-26.3666937,-15.34943306,White,Right Cerebral White Matter,CA1 (Hippocampus),R Fusiform Gyrus,R FuG,Unknown,lesion,
-RAgIT8,A20iv_R,37.52340698,-16.3978858,-13.19257116,44.75574623,-30.69427402,-13.1041786,White,Right Cerebral White Matter,Unknown,Unknown,R ITG,Unknown,lesion,
-RAgIT9,Unknown,40.31770325,-20.39736998,-11.99324679,47.97011237,-34.56508937,-10.55244227,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,lesion,
-RHpO1,rHipp_R,22.35437012,-0.799897492,-13.99212074,27.15312528,-15.11297477,-19.48914122,Gray,Right Hippocampus,CA3 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,dentate gyrus
-RHpO10,Unknown,31.53562927,-43.99432665,-5.996624947,37.53914256,-58.47119792,2.562682433,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-RHpO11,V5/MT+_R,32.33399963,-48.79370767,-5.596850157,38.38500201,-63.56264483,4.445532547,White,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,R LOcC,Unknown,WM,
-RHpO12,V5/MT+_R,33.53155518,-53.59308869,-4.797300577,39.7491964,-68.50924366,6.873133614,White,Right Cerebral White Matter,Unknown,R Middle Occipital Gyrus,R LOcC,Right inferior middle occipital gyrus K,,
-RHpO13,A39c_R,34.32992554,-58.3924697,-3.997750998,40.72842996,-73.43693444,9.399044997,Gray,Right IOG inferior occipital gyrus,Area hOc4la,R Middle Occipital Gyrus,R IPL,Right inferior middle occipital gyrus K,,
-RHpO14,A39c_R,35.52748108,-63.19185072,-3.198201418,42.16798064,-78.31319765,12.07469526,Gray,Right MOG middle occipital gyrus,Area hOc4la,R Middle Occipital Gyrus,R IPL,Right superior middle occipital gyrus E,,
-RHpO15,A39c_R,36.32585144,-67.99123174,-2.798426628,43.26233961,-83.31805083,14.31126074,Unknown,Right MOG middle occipital gyrus,Area hOc4lp,R Middle Occipital Gyrus,R IPL,Right superior middle occipital gyrus E,OOB,
-RHpO16,Unknown,37.92259216,-73.99045801,-1.199327469,45.16507023,-89.24063453,18.38375064,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,
-RHpO2,cHipp_R,23.55192566,-5.199330091,-12.79279637,28.52208555,-19.36260841,-16.72781863,Gray,Right Hippocampus,CA3 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,dentate gyrus
-RHpO3,cHipp_R,24.7494812,-9.998711109,-11.99324679,29.94148105,-24.05864818,-14.37675015,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,dentate gyrus
-RHpO4,cHipp_R,25.94703674,-14.79809213,-10.79392242,31.29392232,-28.66756661,-11.62334348,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,CA1
-RHpO5,cHipp_R,26.7454071,-19.59747314,-9.994372845,32.16566449,-33.45052392,-9.338639347,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,CA1
-RHpO6,cHipp_R,27.94296265,-24.39685416,-9.194823265,33.4880101,-38.2863243,-7.021522921,Gray,Right LiG lingual gyrus,CA1 (Hippocampus),R ParaHippocampal Gyrus,R Hipp,Right parahippocampal gyrus F,WM,
-RHpO7,rLinG_R,29.14051819,-29.19623518,-8.395273685,34.86367115,-43.15829808,-4.695211677,Gray,Right Cerebral White Matter,Unknown,R Fusiform Gyrus,R MVOcC,Right parahippocampal gyrus G ,,
-RHpO8,Unknown,29.93888855,-33.9956162,-7.595724106,35.77095234,-48.07103882,-2.320484035,White,Right Cerebral White Matter,Unknown,R Fusiform Gyrus,Unknown,Unknown,WM,
-RHpO9,Unknown,30.73725891,-38.79499722,-6.796174526,36.67448913,-53.03547653,0.072218988,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-RmCmS1,Unknown,5.588592529,2.799638271,28.38400698,8.169530534,1.227377214,29.39646629,White,Right MCgG middle cingulate gyrus,Area 33,R MCC,Unknown,Unknown,WM,
-RmCmS2,Unknown,6.786148071,1.999741435,33.18130445,9.703101963,1.56743613,35.16955818,White,Right Cerebral White Matter,Unknown,R MCC,Unknown,Unknown,Right cingulate gyrus K ,
-RmCmS3,A6m_R,7.983703613,0.799896181,37.97860193,11.16565451,1.480372324,41.06738655,White,Right SMC supplementary motor cortex,Unknown,R MCC,R SFG,Right cingulate gyrus K ,WM,
-RmCmS4,A6m_R,8.782073975,-6.56E-07,42.37612462,12.10827251,1.734792349,46.3370174,White,Right SMC supplementary motor cortex,Unknown,R Posterior-Medial Frontal,R SFG,Unknown,Wm,
-RmCmS5,A6m_R,9.979629517,-0.799897492,47.1734221,13.26950753,2.124424444,52.03510723,White,Right Cerebral White Matter,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 6 A,WM,
-RmCmS6,Unknown,11.17718506,-1.999742746,51.97071958,14.27788611,2.094010732,57.84991222,White,Right Cerebral White Matter,Unknown,R Posterior-Medial Frontal,Unknown,Unknown,Right superior frontal gyrus 7 D,
-RmCmS7,A6dl_R,12.3747406,-2.799639583,56.76801705,15.22873714,2.476067747,63.49896085,White,Right SFG superior frontal gyrus,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 7 D,,
-RmCmS8,A6dl_R,14.3706665,-3.199588001,61.56531453,17.15260774,3.333781787,69.02939118,Gray,Right SFG superior frontal gyrus,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 6 D,OOB,
-RmOIF1,A11m_R,1.197555542,50.79344845,-1.599102259,4.647138737,42.50074475,-22.98472078,Gray,Right GRe gyrus rectus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 A,,
-RmOIF10,A9/46v_R,41.11607361,51.59334528,18.78941202,49.43018416,50.15531864,3.184781109,Unknown,Right MFG middle frontal gyrus,Unknown,R Middle Frontal Gyrus,R MFG,Right frontal pole 3 G,OOB,
-RmOIF2,A11m_R,5.588592529,50.79344845,0.79954648,9.446134872,43.4672665,-20.09489375,Gray,Right GRe gyrus rectus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 A,,
-RmOIF3,A11l_R,9.979629517,50.79344845,3.198195219,14.42196504,44.45541265,-17.27015402,White,Right MOrG medial orbital gyrus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 C,,
-RmOIF4,A11l_R,14.3706665,50.79344845,5.197069168,19.42354619,45.28161253,-15.07879646,Gray,Right MOrG medial orbital gyrus,Area Fo3,R Superior Orbital Gyrus,R OrG,Right frontal orbital 3 C,,
-RmOIF5,A11l_R,18.76170349,51.19339687,7.595717907,24.31465895,46.57020771,-12.25567129,Gray,Right AOrG anterior orbital gyrus,Area Fo3,R Superior Orbital Gyrus,R OrG,Right frontal orbital 3 D,,
-RmOIF6,A11l_R,23.15274048,51.19339687,9.994366646,29.09695485,47.41819633,-8.899429428,White,Right Cerebral White Matter,Unknown,R Middle Orbital Gyrus,R OrG,Unknown,WM,
-RmOIF7,Unknown,27.54377747,51.19339687,11.99324059,33.967556,48.04030204,-6.087545843,White,Right Cerebral White Matter,Unknown,R Middle Orbital Gyrus,Unknown,Unknown,WM,
-RmOIF8,A9/46v_R,31.93481445,51.59334528,14.39188933,38.94824896,49.07271786,-2.944792317,Gray,Right MFG middle frontal gyrus,Unknown,R Middle Orbital Gyrus,R MFG,Right frontal pole 3 F,,
-RmOIF9,A9/46v_R,36.72503662,51.59334528,16.39076328,44.45009802,49.56582527,-0.088043597,Gray,Right MFG middle frontal gyrus,Unknown,R Middle Frontal Gyrus,R MFG,Right frontal pole 3 G,,
-RmTpT1,vmPOS_R,18.76170349,-31.59592569,-5.596850157,22.97441471,-45.09171342,-0.591468842,White,Right PCgG posterior cingulate gyrus,Unknown,R Precuneus,R MVOcC,Unknown,WM,
-RmTpT10,Unknown,61.873703,-37.99510038,5.996618748,70.37921542,-48.68187644,16.2186926,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,
-RmTpT2,Unknown,23.55192566,-32.39582253,-4.397525787,28.35223315,-45.59029181,0.96064636,Unknown,Right Lateral Ventricle,Unknown,R Precuneus,Unknown,Unknown,OOB,
-RmTpT3,Unknown,28.34214783,-32.79577094,-3.198201418,33.78160609,-45.62733008,2.52117553,Unknown,Right Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,OOB,
-RmTpT4,Unknown,33.13237,-33.59566778,-1.998877048,39.12806458,-46.08125487,4.352999019,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,
-RmTpT5,Unknown,37.92259216,-34.39556462,-0.799552679,44.31308931,-46.57129996,6.176874196,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Right superior middle temporal gyrus F,WM,
-RmTpT6,A39rv_R,42.71281433,-35.19546145,0.39977169,49.45509479,-47.08461232,8.040164399,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R IPL,Right superior middle temporal gyrus F,,
-RmTpT7,A39rv_R,47.90222168,-35.59540987,1.59909606,55.00447306,-47.25577999,9.739767756,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R IPL,Right superior middle temporal gyrus F,,
-RmTpT8,A37dl_R,52.69244385,-36.39530671,2.798420429,60.1463301,-47.81765231,11.56074999,Gray,Right MTG middle temporal gyrus,Area PGa (IPL),R Middle Temporal Gyrus,R MTG,Right superior middle temporal gyrus F,,
-RmTpT9,A39rv_R,58.28103638,-37.19520354,4.797294378,66.30065477,-48.12495845,14.42348757,Unknown,Right STG superior temporal gyrus,Area PGa (IPL),R Middle Temporal Gyrus,R IPL,Right superior temporal gyrus G,OOB,
-RPEA1,Unknown,33.93074036,-36.79525512,18.78941202,39.30533935,-44.57150915,30.38455618,White,Right Cerebral White Matter,Area hIP1 (IPS),Unknown,Unknown,Unknown,lesion,
-RPEA2,Unknown,37.92259216,-36.39530671,21.98761034,43.6206057,-43.31588556,34.15335156,Gray,Right Cerebral White Matter,Area hIP1 (IPS),R SupraMarginal Gyrus,Unknown,Unknown,lesion,
-RPEA3,A40c_R,41.91444397,-36.39530671,25.18580866,47.91135957,-42.42656918,37.96872864,Gray,Right SMG supramarginal gyrus,Area hIP1 (IPS),R SupraMarginal Gyrus,R IPL,Unknown,lesion,
-RPEA4,A40c_R,45.5071106,-36.39530671,28.38400698,51.79286798,-41.47450768,41.72179436,Gray,Right SMG supramarginal gyrus,Area PFm (IPL),R SupraMarginal Gyrus,R IPL,Right supramarginal gyrus 3 B,lesion,
-RPEA5,A40c_R,49.4989624,-36.39530671,31.18243051,56.0650989,-40.602992,44.99351808,White,Right SMG supramarginal gyrus,Area PFm (IPL),R SupraMarginal Gyrus,R IPL,Right supramarginal gyrus 3 A,lesion,
-RPEA6,A40c_R,53.88999939,-36.39530671,34.78040361,60.84858091,-39.56953648,49.38718614,Unknown,Right SMG supramarginal gyrus,Unknown,R Inferior Parietal Lobule ,R IPL,Right supramarginal gyrus 1 B,lesion,
-RPEP1,Unknown,29.14051819,-44.79422349,18.38963723,33.87807592,-53.2156228,32.00703978,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,lesion,
-RPEP2,A39rd_R,31.93481445,-48.39375925,20.38851118,36.89115003,-56.53953783,35.51511931,Gray,Right Cerebral White Matter,Area hIP1 (IPS),R Angular Gyrus,R IPL,Unknown,lesion,
-RPEP3,A39rd_R,34.32992554,-51.99329501,22.78715992,39.46487481,-59.7074162,39.50215209,Gray,Right AnG angular gyrus,Unknown,R Angular Gyrus,R IPL,Right supramarginal gyrus 5 B,lesion,
-RPEP4,A39rd_R,37.1242218,-55.19288236,25.58558345,42.51990013,-62.35120433,43.90065137,Gray,Right AnG angular gyrus,Area PGa (IPL),R Angular Gyrus,R IPL,Unknown,lesion,
-RPEP5,A39rd_R,39.51933289,-59.19236654,27.98423219,45.23539578,-65.96607717,48.10282231,Gray,Right AnG angular gyrus,Area PGp (IPL),R Angular Gyrus,R IPL,Right supramarginal gyrus 5 B,lesion,
-RPEP6,Unknown,42.31362915,-62.39195389,30.78265572,48.48852812,-68.66441859,52.67506982,Unknown,Unknown,Unknown,R Angular Gyrus,Unknown,Unknown,lesion,
+label,BN246label,x,y,z,mni_x,mni_y,mni_z,gm,NMM,Anat,AnatMacro,BN246,YBA_1,ManualExamination,final_loc
+LaCas1,A13_L,-9.181259155,37.59515065,0.39977169,-7.760768384,29.35103747,-16.33416241,White,Left MFC medial frontal cortex,Area s32,L Rectal Gyrus,L OrG,Left frontal pole 1 B,WM,WM
+LaCas10,A9/46d_L,-25.54785156,38.39504749,40.77702546,-27.10880217,42.2882393,30.74282435,Gray,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 3 A,,Left middle frontal gyrus 3 A
+LaCas11,A9/46d_L,-27.14459229,38.7949959,45.57432294,-28.90637825,44.08160566,36.22853748,Gray,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 3 B,,Left middle frontal gyrus 3 B
+LaCas12,Unknown,-28.74133301,38.7949959,50.37162042,-30.69432643,45.53001121,41.86293108,Unknown,Unknown,Unknown,L Superior Frontal Gyrus,Unknown,Left middle frontal gyrus 3 B,OOB,OOB
+LaCas2,A13_L,-11.17718506,37.19520223,4.797294378,-10.27508654,30.39679142,-11.02794067,White,Left ACgG anterior cingulate gyrus,Area s32,L Mid Orbital Gyrus,L OrG,Left cingulate gyrus C,WM,WM
+LaCas3,Unknown,-12.77392578,36.79525381,9.594591856,-12.30770984,31.54232692,-5.263482233,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LaCas4,Unknown,-14.3706665,36.79525381,13.99211454,-14.17766344,32.94577322,-0.11782898,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LaCas5,Unknown,-16.36659241,36.79525381,18.78941202,-16.46750952,34.44372621,5.515178366,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LaCas6,Unknown,-18.36251831,36.79525381,23.18693471,-18.76095835,35.74880543,10.66821999,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LaCas7,Unknown,-20.35844421,36.79525381,27.5844574,-21.07772956,37.01464052,15.81519948,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LaCas8,A9/46d_L,-21.95518494,37.19520223,32.38175488,-22.93768298,38.74772667,21.32695286,White,Left Cerebral White Matter,Unknown,L Middle Frontal Gyrus,L MFG,Unknown,Left middle frontal gyrus 2 A,Left middle frontal gyrus 2 A
+LaCas9,A9/46d_L,-23.95111084,37.99509907,36.77927756,-25.24446884,40.76948498,26.19903631,White,Left MFG middle frontal gyrus,Unknown,L Middle Frontal Gyrus,L MFG,Left middle frontal gyrus 2 A,,Left middle frontal gyrus 2 A
+LAgIT1,rHipp_L,-23.15274048,6.799122453,-10.39414763,-22.47028998,-6.366428323,-19.65530816,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,Left amygdala superior 
+LAgIT2,rHipp_L,-27.94296265,5.999225616,-10.79392242,-27.65462862,-7.225541556,-19.75525023,Gray,Left Amygdala,Amygdala (LB),L Hippocampus,L Hipp,Left amygdala superior ,,Left amygdala superior 
+LAgIT3,lAmyg_L,-32.73318481,5.599277198,-11.19369721,-32.95503099,-7.566912765,-19.9920704,Gray,Left Cerebral White Matter,CA1 (Hippocampus),L Hippocampus,L Amyg,Unknown,Left amygdala superior ,Left amygdala superior 
+LAgIT4,Unknown,-37.92259216,4.799380362,-11.593472,-38.92955059,-8.333618475,-20.239207,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LAgIT5,Unknown,-43.11199951,4.399431944,-11.99324679,-44.85270115,-8.621618067,-20.76953648,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,WM,WM
+LAgIT6,aSTS_L,-47.90222168,3.599535108,-12.39302158,-50.26602557,-9.341456822,-21.34218533,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus A,WM,WM
+LAgIT7,A21r_L,-52.69244385,3.199586689,-13.19257116,-55.61163932,-9.827594199,-22.66732561,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus A,,Left inferior middle temporal gyrus A
+LAgIT8,A21r_L,-57.8818512,2.399689853,-13.59234595,-61.44057106,-10.58104113,-23.3612268,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus B,,Left inferior middle temporal gyrus B
+LHpIT1,rHipp_L,-23.95111084,-4.399433255,-13.59234595,-23.78528038,-18.88227373,-20.14193982,Gray,Left Hippocampus,Subiculum,L Hippocampus,L Hipp,Left hippocampus pes,,Left hippocampus pes
+LHpIT10,Unknown,-67.06311035,-16.3978858,-5.996624947,-72.0343863,-28.01902501,-10.11406681,Unknown,Unknown,Unknown,Unknown,Unknown,Left superior middle temporal gyrus C,OOB,OOB
+LHpIT2,cHipp_L,-28.74133301,-5.59927851,-12.39302158,-29.21029733,-19.68960179,-18.31268539,Gray,Left Hippocampus,DG (Hippocampus),L Hippocampus,L Hipp,Left hippocampus pes,,Left hippocampus pes
+LHpIT3,cHipp_L,-33.53155518,-6.799123764,-11.19369721,-34.6867041,-20.47522494,-16.55855338,Gray,Left Hippocampus,CA2 (Hippocampus),L Hippocampus,L Hipp,Left hippocampus body ,,Left hippocampus body 
+LHpIT4,A20rv_L,-38.32177734,-7.998969018,-10.39414763,-40.14145559,-21.40499855,-15.4955145,White,Left Cerebral White Matter,Unknown,L Inferior Temporal Gyrus,L FuG,Unknown,WM,WM
+LHpIT5,Unknown,-43.11199951,-9.198814273,-9.594598055,-45.46514864,-22.34743701,-14.59910909,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,WM,WM
+LHpIT6,aSTS_L,-47.90222168,-10.39865953,-8.395273685,-50.78320909,-23.20664756,-13.40236951,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,WM,WM
+LHpIT7,aSTS_L,-52.29325867,-11.9984532,-7.595724106,-55.63561939,-24.5451943,-12.38292012,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,,Left superior middle temporal gyrus C
+LHpIT8,aSTS_L,-57.08348083,-13.19829845,-6.796174526,-60.88231729,-25.3967103,-11.40588984,White,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,WM,WM
+LHpIT9,A21c_L,-62.67207336,-15.19804054,-5.996624947,-67.09013761,-27.00661459,-10.18915668,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus C,,Left superior middle temporal gyrus C
+LmCmS1,A24rv_L,-7.185333252,9.998709798,27.5844574,-6.261865233,8.819247564,25.76734398,White,Left MCgG middle cingulate gyrus,Area 33,L ACC,L CG,Unknown,WM,WM
+LmCmS2,A24cd_L,-9.181259155,11.19855505,31.5822053,-8.473631333,11.16140913,29.89919608,White,Left Cerebral White Matter,Unknown,Unknown,L CG,Unknown,WM,WM
+LmCmS3,A24cd_L,-11.57637024,11.99845189,35.97972798,-11.28085937,13.15306553,34.47296986,White,Left SMC supplementary motor cortex,Unknown,L MCC,L CG,Left cingulate gyrus J,WM,WM
+LmCmS4,Unknown,-13.17311096,13.19829714,40.37725067,-13.07301041,15.63756212,39.03825586,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Left superior frontal gyrus 4 A,WM,WM
+LmCmS5,Unknown,-15.16903687,14.3981424,44.77477336,-15.32292518,18.17431808,43.62077352,White,Left Cerebral White Matter,Unknown,L Superior Frontal Gyrus,Unknown,Unknown,WM,WM
+LmCmS6,A8dl_L,-16.76577759,15.59798765,49.17229605,-17.2009829,20.73739776,48.29650147,White,Left Cerebral White Matter,Unknown,L Middle Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,WM,WM
+LmCmS7,A8dl_L,-18.76170349,16.79783291,53.56981874,-19.45174721,23.29178634,52.93525021,White,Left SFG superior frontal gyrus,Unknown,L Superior Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,,Left superior frontal gyrus 4 D
+LmCmS8,A8dl_L,-20.35844421,17.99767816,57.96734142,-21.26720976,25.80647297,57.60637911,Gray,Left SFG superior frontal gyrus,Unknown,L Superior Frontal Gyrus,L SFG,Left superior frontal gyrus 4 D,OOB,OOB
+LmOIF1,A11m_L,-7.185333252,46.79396427,-8.395273685,-4.101778601,35.95614204,-29.96610961,Gray,Left GRe gyrus rectus,Area Fo1,Unknown,L OrG,Left frontal orbital 4 A,,Left frontal orbital 4 A
+LmOIF10,A45r_L,-44.70874023,41.19468641,14.79166412,-48.01135155,37.71425803,-1.745862297,Gray,Left TrIFG triangular part of the inferior frontal gyrus,Unknown,L IFG (p Triangularis),L IFG,Left anterior pars triangularis A,,Left anterior pars triangularis A
+LmOIF2,A11m_L,-11.17718506,45.99406743,-5.596850157,-8.631672246,35.92529689,-26.59053945,Gray,Left MOrG medial orbital gyrus,Area Fo1,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 B,,Left frontal orbital 4 B
+LmOIF3,A11l_L,-15.56822205,45.19417059,-3.198201418,-13.6811932,35.80564761,-23.75690236,White,Left MOrG medial orbital gyrus,Area Fo1,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 B,,Left frontal orbital 4 B
+LmOIF4,A11l_L,-19.56007385,44.39427376,-0.399777889,-18.44951766,35.89201801,-20.56187501,Gray,Left MOrG medial orbital gyrus,Area Fo3,L Superior Orbital Gyrus,L OrG,Left frontal orbital 4 C,,Left frontal orbital 4 C
+LmOIF5,A11l_L,-23.95111084,43.59437692,1.99887085,-23.57848663,35.84523205,-17.87055396,Gray,Left MOrG medial orbital gyrus,Area Fo3,L Middle Orbital Gyrus,L OrG,Left frontal orbital 4 C,,Left frontal orbital 4 C
+LmOIF6,A11l_L,-27.94296265,43.1944285,4.797294378,-28.24194512,36.31126362,-14.59595411,Gray,Left AOrG anterior orbital gyrus,Area Fo3,L Middle Orbital Gyrus,L OrG,Left frontal orbital 4 D,,Left frontal orbital 4 D
+LmOIF7,A12/47o_L,-32.33399963,42.79448009,7.195943117,-33.27848564,36.67383521,-11.65561303,Gray,Left LOrG lateral orbital gyrus,Unknown,L IFG (p Orbitalis),L OrG,Left frontal orbital 4 D,,Left frontal orbital 4 D
+LmOIF8,A12/47o_L,-36.32585144,42.39453167,9.994366646,-37.92777501,37.22944688,-8.045469553,Gray,Left Cerebral White Matter,Unknown,L IFG (p Orbitalis),L OrG,Left frontal orbital 4 D,,Left frontal orbital 4 D
+LmOIF9,A45r_L,-40.71688843,41.99458325,12.39301538,-43.09665402,37.62750579,-4.883725935,White,Left Cerebral White Matter,Unknown,L IFG (p Orbitalis),L IFG,Left anterior pars triangularis A,,Left anterior pars triangularis A
+LmTpT1,cHipp_L,-16.76577759,-28.79628676,-3.198201418,-17.12969286,-41.46073854,0.24948128,Gray,Left Hippocampus,CA1 (Hippocampus),L Precuneus,L Hipp,Left cingulate gyrus R,Left hippocampus tail ,Left hippocampus tail 
+LmTpT10,A37dl_L,-55.08755493,-52.39324343,-2.798426628,-60.02342092,-66.5140535,5.881321881,Unknown,Left MTG middle temporal gyrus,Unknown,Unknown,L MTG,Left inferior middle temporal gyrus G,OOB,OOB
+LmTpT2,cHipp_L,-21.15681458,-31.59592569,-3.198201418,-22.12751225,-44.33029294,0.868666494,White,Left Cerebral White Matter,Unknown,L Lingual Gyrus,L Hipp,Unknown,WM,WM
+LmTpT3,Unknown,-25.14866638,-34.39556462,-3.198201418,-26.684765,-47.42556534,1.517130322,White,Left Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,OOB,OOB
+LmTpT4,Unknown,-29.53970337,-36.79525512,-3.198201418,-31.72688419,-50.06462842,2.091502172,White,Left Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,WM,WM
+LmTpT5,Unknown,-33.93074036,-39.59489405,-3.198201418,-36.59740785,-53.22059089,2.528277541,White,Left Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+LmTpT6,Unknown,-37.92259216,-41.99458456,-3.198201418,-40.99311738,-55.91356989,2.902992294,White,Left Cerebral White Matter,Unknown,L Middle Temporal Gyrus,Unknown,Unknown,Left superior middle temporal gyrus G,Left superior middle temporal gyrus G
+LmTpT7,A37dl_L,-42.31362915,-44.79422349,-2.798426628,-45.85156001,-58.80057562,3.924390478,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left superior middle temporal gyrus G,,Left superior middle temporal gyrus G
+LmTpT8,A37dl_L,-46.70466614,-47.193914,-2.798426628,-50.73247424,-61.26749054,4.481301124,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus G,WM,WM
+LmTpT9,A37dl_L,-51.09570313,-49.99355292,-2.798426628,-55.67115452,-64.1534784,5.236577587,Gray,Left MTG middle temporal gyrus,Unknown,L Middle Temporal Gyrus,L MTG,Left inferior middle temporal gyrus G,,Left inferior middle temporal gyrus G
+RaCas1,A13_R,3.193481445,41.19468641,-0.799552679,6.477375991,32.98929029,-18.57581279,White,Right MFC medial frontal cortex,Area Fo1,R Rectal Gyrus,R OrG,Right frontal pole 1 B,WM,WM
+RaCas10,Unknown,8.382888794,29.9961307,41.97634983,11.67965929,33.75274251,36.30655325,White,Right Cerebral White Matter,Unknown,R Superior Medial Gyrus,Unknown,Right superior frontal gyrus 3 A,,Right superior frontal gyrus 3 A
+RaCas11,Unknown,9.181259155,28.79628545,46.37387252,12.49773703,33.6535841,41.86724789,White,Right Cerebral White Matter,Unknown,R Superior Medial Gyrus,Unknown,Unknown,WM,WM
+RaCas12,A9l_R,9.979629517,27.5964402,51.17117,13.0505973,33.66394162,47.86630319,White,Right SFG superior frontal gyrus,Unknown,R Superior Medial Gyrus,R SFG,Right superior frontal gyrus 3 C,,Right superior frontal gyrus 3 C
+RaCas13,A9l_R,10.77799988,26.39659494,55.96846747,13.66606536,33.79085167,53.90594638,Gray,Right SFG superior frontal gyrus,Unknown,R Superior Frontal Gyrus,R SFG,Right superior frontal gyrus 4 C,OOB,OOB
+RaCas14,A9l_R,11.17718506,24.39685285,59.96621537,13.90036962,32.83977035,59.19998081,Unknown,Right SFG superior frontal gyrus,Unknown,R Superior Medial Gyrus,R SFG,Right superior frontal gyrus 4 C,OOB,OOB
+RaCas2,A14m_R,3.592666626,39.99484116,3.997744799,6.668987745,33.39677756,-12.43141224,Gray,Right MFC medial frontal cortex,Area s32,R Mid Orbital Gyrus,R OrG,Right frontal pole 1 B,WM,WM
+RaCas3,A14m_R,4.391036987,38.7949959,8.795042276,7.201903574,33.82269497,-6.276812044,Gray,Right ACgG anterior cingulate gyrus,Area s32,R ACC,R OrG,Right cingulate gyrus D,,Right cingulate gyrus D
+RaCas4,A24rv_R,4.790222168,37.19520223,13.59233975,7.364905536,33.79991342,0.059705654,Gray,Right ACgG anterior cingulate gyrus,Area 33,R ACC,R CG,Right cingulate gyrus D,,Right cingulate gyrus D
+RaCas5,A24rv_R,5.588592529,35.99535698,18.38963723,8.111361799,34.09257437,6.314256233,Gray,Right ACgG anterior cingulate gyrus,Area 33,R ACC,R CG,Unknown,WM,WM
+RaCas6,A24rv_R,5.98777771,34.79551172,23.18693471,8.556777205,34.15860733,12.53509813,Gray,Right ACgG anterior cingulate gyrus,Unknown,R ACC,R CG,Unknown,WM,WM
+RaCas7,A32p_R,6.386962891,33.59566647,27.98423219,9.184104034,34.11589136,18.67460785,Gray,Right ACgG anterior cingulate gyrus,Unknown,R ACC,R CG,Right cingulate gyrus G,,Right cingulate gyrus G
+RaCas8,A32p_R,7.185333252,32.39582121,32.78152966,10.23876223,33.99886883,24.71699921,Gray,Right MSFG superior frontal gyrus medial segment,Unknown,R ACC,R CG,Right superior frontal gyrus 2 A,,Right superior frontal gyrus 2 A
+RaCas9,A9m_R,7.584518433,31.19597596,37.57882714,10.72595023,33.88797576,30.73250409,White,Right MSFG superior frontal gyrus medial segment,Unknown,R MCC,R SFG,Right superior frontal gyrus 2 A,WM,WM
+RAgIT1,mAmyg_R,19.56007385,13.19829714,-18.78941822,23.96514904,-1.462127175,-29.44708862,Gray,Right Amygdala,Amygdala (LB),R ParaHippocampal Gyrus,R Amyg,Right amygdala inferior,,Right amygdala inferior
+RAgIT10,Unknown,43.11199951,-24.79680258,-11.19369721,51.091409,-39.05661641,-8.460871401,Gray,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,Unknown,Unknown,lesion,OOB
+RAgIT11,A21c_R,45.5071106,-28.79628676,-10.39414763,53.57825278,-43.13783168,-6.446939154,White,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus E,,Right inferior middle temporal gyrus E
+RAgIT12,A37dl_R,48.30140686,-33.19571936,-9.594598055,56.49864407,-47.70024553,-4.286846881,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus E,,Right inferior middle temporal gyrus E
+RAgIT13,A37dl_R,51.09570313,-37.19520354,-8.395273685,59.48249835,-51.67333759,-1.619643673,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right superior middle temporal gyrus E,,Right superior middle temporal gyrus E
+RAgIT14,A37dl_R,54.28918457,-41.59463614,-7.595724106,62.9739458,-56.06924511,0.866073269,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R MTG,Right inferior middle temporal gyrus F,OOB,OOB
+RAgIT15,Unknown,57.48266602,-45.19417191,-6.796174526,66.45060367,-59.54115913,3.173107998,Unknown,Unknown,Unknown,R Middle Temporal Gyrus,Unknown,Unknown,OOB,OOB
+RAgIT16,Unknown,60.27696228,-49.59360451,-5.197075367,69.24234616,-63.61701005,6.639284189,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,OOB
+RAgIT2,rHipp_R,21.95518494,9.198812962,-18.38964343,26.6680514,-5.548680221,-27.54733125,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right amygdala inferior,,Right amygdala inferior
+RAgIT3,rHipp_R,24.7494812,4.799380362,-17.59009385,29.81189135,-10.00152469,-25.0590341,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,Right hippocampus pes
+RAgIT4,cHipp_R,27.54377747,0.399947762,-16.79054427,33.01583559,-14.39028417,-22.53764813,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,Right hippocampus pes
+RAgIT5,cHipp_R,29.93888855,-3.599536419,-15.99099469,35.85179556,-18.23631013,-20.23354295,Gray,Right Hippocampus,CA1 (Hippocampus),R ParaHippocampal Gyrus,R Hipp,Right hippocampus pes,,Right hippocampus pes
+RAgIT6,cHipp_R,32.73318481,-7.998969018,-14.79167032,39.04844505,-22.45192459,-17.45666588,Gray,Right Hippocampus,CA1 (Hippocampus),R Hippocampus,R Hipp,Unknown,lesion,OOB
+RAgIT7,A20rv_R,35.1282959,-11.9984532,-13.99212074,41.86945073,-26.3666937,-15.34943306,White,Right Cerebral White Matter,CA1 (Hippocampus),R Fusiform Gyrus,R FuG,Unknown,lesion,OOB
+RAgIT8,A20iv_R,37.52340698,-16.3978858,-13.19257116,44.75574623,-30.69427402,-13.1041786,White,Right Cerebral White Matter,Unknown,Unknown,R ITG,Unknown,lesion,OOB
+RAgIT9,Unknown,40.31770325,-20.39736998,-11.99324679,47.97011237,-34.56508937,-10.55244227,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,lesion,OOB
+RHpO1,rHipp_R,22.35437012,-0.799897492,-13.99212074,27.15312528,-15.11297477,-19.48914122,Gray,Right Hippocampus,CA3 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus pes,,Right hippocampus pes
+RHpO10,Unknown,31.53562927,-43.99432665,-5.996624947,37.53914256,-58.47119792,2.562682433,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+RHpO11,V5/MT+_R,32.33399963,-48.79370767,-5.596850157,38.38500201,-63.56264483,4.445532547,White,Right Cerebral White Matter,Unknown,R Middle Temporal Gyrus,R LOcC,Unknown,WM,WM
+RHpO12,V5/MT+_R,33.53155518,-53.59308869,-4.797300577,39.7491964,-68.50924366,6.873133614,White,Right Cerebral White Matter,Unknown,R Middle Occipital Gyrus,R LOcC,Right inferior middle occipital gyrus K,,Right inferior middle occipital gyrus K
+RHpO13,A39c_R,34.32992554,-58.3924697,-3.997750998,40.72842996,-73.43693444,9.399044997,Gray,Right IOG inferior occipital gyrus,Area hOc4la,R Middle Occipital Gyrus,R IPL,Right inferior middle occipital gyrus K,,Right inferior middle occipital gyrus K
+RHpO14,A39c_R,35.52748108,-63.19185072,-3.198201418,42.16798064,-78.31319765,12.07469526,Gray,Right MOG middle occipital gyrus,Area hOc4la,R Middle Occipital Gyrus,R IPL,Right superior middle occipital gyrus E,,Right superior middle occipital gyrus E
+RHpO15,A39c_R,36.32585144,-67.99123174,-2.798426628,43.26233961,-83.31805083,14.31126074,Unknown,Right MOG middle occipital gyrus,Area hOc4lp,R Middle Occipital Gyrus,R IPL,Right superior middle occipital gyrus E,OOB,OOB
+RHpO16,Unknown,37.92259216,-73.99045801,-1.199327469,45.16507023,-89.24063453,18.38375064,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,OOB
+RHpO2,cHipp_R,23.55192566,-5.199330091,-12.79279637,28.52208555,-19.36260841,-16.72781863,Gray,Right Hippocampus,CA3 (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,Right hippocampus body 
+RHpO3,cHipp_R,24.7494812,-9.998711109,-11.99324679,29.94148105,-24.05864818,-14.37675015,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,Right hippocampus body 
+RHpO4,cHipp_R,25.94703674,-14.79809213,-10.79392242,31.29392232,-28.66756661,-11.62334348,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,Right hippocampus body 
+RHpO5,cHipp_R,26.7454071,-19.59747314,-9.994372845,32.16566449,-33.45052392,-9.338639347,Gray,Right Hippocampus,DG (Hippocampus),R Hippocampus,R Hipp,Right hippocampus body ,,Right hippocampus body 
+RHpO6,cHipp_R,27.94296265,-24.39685416,-9.194823265,33.4880101,-38.2863243,-7.021522921,Gray,Right LiG lingual gyrus,CA1 (Hippocampus),R ParaHippocampal Gyrus,R Hipp,Right parahippocampal gyrus F,WM,WM
+RHpO7,rLinG_R,29.14051819,-29.19623518,-8.395273685,34.86367115,-43.15829808,-4.695211677,Gray,Right Cerebral White Matter,Unknown,R Fusiform Gyrus,R MVOcC,Right parahippocampal gyrus G ,,Right parahippocampal gyrus G 
+RHpO8,Unknown,29.93888855,-33.9956162,-7.595724106,35.77095234,-48.07103882,-2.320484035,White,Right Cerebral White Matter,Unknown,R Fusiform Gyrus,Unknown,Unknown,WM,WM
+RHpO9,Unknown,30.73725891,-38.79499722,-6.796174526,36.67448913,-53.03547653,0.072218988,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+RmCmS1,Unknown,5.588592529,2.799638271,28.38400698,8.169530534,1.227377214,29.39646629,White,Right MCgG middle cingulate gyrus,Area 33,R MCC,Unknown,Unknown,WM,WM
+RmCmS2,Unknown,6.786148071,1.999741435,33.18130445,9.703101963,1.56743613,35.16955818,White,Right Cerebral White Matter,Unknown,R MCC,Unknown,Unknown,Right cingulate gyrus K ,Right cingulate gyrus K 
+RmCmS3,A6m_R,7.983703613,0.799896181,37.97860193,11.16565451,1.480372324,41.06738655,White,Right SMC supplementary motor cortex,Unknown,R MCC,R SFG,Right cingulate gyrus K ,WM,WM
+RmCmS4,A6m_R,8.782073975,-6.56E-07,42.37612462,12.10827251,1.734792349,46.3370174,White,Right SMC supplementary motor cortex,Unknown,R Posterior-Medial Frontal,R SFG,Unknown,Wm,WM
+RmCmS5,A6m_R,9.979629517,-0.799897492,47.1734221,13.26950753,2.124424444,52.03510723,White,Right Cerebral White Matter,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 6 A,WM,WM
+RmCmS6,Unknown,11.17718506,-1.999742746,51.97071958,14.27788611,2.094010732,57.84991222,White,Right Cerebral White Matter,Unknown,R Posterior-Medial Frontal,Unknown,Unknown,Right superior frontal gyrus 7 D,Right superior frontal gyrus 7 D
+RmCmS7,A6dl_R,12.3747406,-2.799639583,56.76801705,15.22873714,2.476067747,63.49896085,White,Right SFG superior frontal gyrus,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 7 D,,Right superior frontal gyrus 7 D
+RmCmS8,A6dl_R,14.3706665,-3.199588001,61.56531453,17.15260774,3.333781787,69.02939118,Gray,Right SFG superior frontal gyrus,Unknown,R Posterior-Medial Frontal,R SFG,Right superior frontal gyrus 6 D,OOB,OOB
+RmOIF1,A11m_R,1.197555542,50.79344845,-1.599102259,4.647138737,42.50074475,-22.98472078,Gray,Right GRe gyrus rectus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 A,,Right frontal orbital 3 A
+RmOIF10,A9/46v_R,41.11607361,51.59334528,18.78941202,49.43018416,50.15531864,3.184781109,Unknown,Right MFG middle frontal gyrus,Unknown,R Middle Frontal Gyrus,R MFG,Right frontal pole 3 G,OOB,OOB
+RmOIF2,A11m_R,5.588592529,50.79344845,0.79954648,9.446134872,43.4672665,-20.09489375,Gray,Right GRe gyrus rectus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 A,,Right frontal orbital 3 A
+RmOIF3,A11l_R,9.979629517,50.79344845,3.198195219,14.42196504,44.45541265,-17.27015402,White,Right MOrG medial orbital gyrus,Area Fo1,R Rectal Gyrus,R OrG,Right frontal orbital 3 C,,Right frontal orbital 3 C
+RmOIF4,A11l_R,14.3706665,50.79344845,5.197069168,19.42354619,45.28161253,-15.07879646,Gray,Right MOrG medial orbital gyrus,Area Fo3,R Superior Orbital Gyrus,R OrG,Right frontal orbital 3 C,,Right frontal orbital 3 C
+RmOIF5,A11l_R,18.76170349,51.19339687,7.595717907,24.31465895,46.57020771,-12.25567129,Gray,Right AOrG anterior orbital gyrus,Area Fo3,R Superior Orbital Gyrus,R OrG,Right frontal orbital 3 D,,Right frontal orbital 3 D
+RmOIF6,A11l_R,23.15274048,51.19339687,9.994366646,29.09695485,47.41819633,-8.899429428,White,Right Cerebral White Matter,Unknown,R Middle Orbital Gyrus,R OrG,Unknown,WM,WM
+RmOIF7,Unknown,27.54377747,51.19339687,11.99324059,33.967556,48.04030204,-6.087545843,White,Right Cerebral White Matter,Unknown,R Middle Orbital Gyrus,Unknown,Unknown,WM,WM
+RmOIF8,A9/46v_R,31.93481445,51.59334528,14.39188933,38.94824896,49.07271786,-2.944792317,Gray,Right MFG middle frontal gyrus,Unknown,R Middle Orbital Gyrus,R MFG,Right frontal pole 3 F,,Right frontal pole 3 F
+RmOIF9,A9/46v_R,36.72503662,51.59334528,16.39076328,44.45009802,49.56582527,-0.088043597,Gray,Right MFG middle frontal gyrus,Unknown,R Middle Frontal Gyrus,R MFG,Right frontal pole 3 G,,Right frontal pole 3 G
+RmTpT1,vmPOS_R,18.76170349,-31.59592569,-5.596850157,22.97441471,-45.09171342,-0.591468842,White,Right PCgG posterior cingulate gyrus,Unknown,R Precuneus,R MVOcC,Unknown,WM,WM
+RmTpT10,Unknown,61.873703,-37.99510038,5.996618748,70.37921542,-48.68187644,16.2186926,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,OOB,OOB
+RmTpT2,Unknown,23.55192566,-32.39582253,-4.397525787,28.35223315,-45.59029181,0.96064636,Unknown,Right Lateral Ventricle,Unknown,R Precuneus,Unknown,Unknown,OOB,OOB
+RmTpT3,Unknown,28.34214783,-32.79577094,-3.198201418,33.78160609,-45.62733008,2.52117553,Unknown,Right Lateral Ventricle,Unknown,Unknown,Unknown,Unknown,OOB,OOB
+RmTpT4,Unknown,33.13237,-33.59566778,-1.998877048,39.12806458,-46.08125487,4.352999019,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,WM,WM
+RmTpT5,Unknown,37.92259216,-34.39556462,-0.799552679,44.31308931,-46.57129996,6.176874196,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Right superior middle temporal gyrus F,WM,WM
+RmTpT6,A39rv_R,42.71281433,-35.19546145,0.39977169,49.45509479,-47.08461232,8.040164399,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R IPL,Right superior middle temporal gyrus F,,Right superior middle temporal gyrus F
+RmTpT7,A39rv_R,47.90222168,-35.59540987,1.59909606,55.00447306,-47.25577999,9.739767756,Gray,Right MTG middle temporal gyrus,Unknown,R Middle Temporal Gyrus,R IPL,Right superior middle temporal gyrus F,,Right superior middle temporal gyrus F
+RmTpT8,A37dl_R,52.69244385,-36.39530671,2.798420429,60.1463301,-47.81765231,11.56074999,Gray,Right MTG middle temporal gyrus,Area PGa (IPL),R Middle Temporal Gyrus,R MTG,Right superior middle temporal gyrus F,,Right superior middle temporal gyrus F
+RmTpT9,A39rv_R,58.28103638,-37.19520354,4.797294378,66.30065477,-48.12495845,14.42348757,Unknown,Right STG superior temporal gyrus,Area PGa (IPL),R Middle Temporal Gyrus,R IPL,Right superior temporal gyrus G,OOB,OOB
+RPEA1,Unknown,33.93074036,-36.79525512,18.78941202,39.30533935,-44.57150915,30.38455618,White,Right Cerebral White Matter,Area hIP1 (IPS),Unknown,Unknown,Unknown,lesion,OOB
+RPEA2,Unknown,37.92259216,-36.39530671,21.98761034,43.6206057,-43.31588556,34.15335156,Gray,Right Cerebral White Matter,Area hIP1 (IPS),R SupraMarginal Gyrus,Unknown,Unknown,lesion,OOB
+RPEA3,A40c_R,41.91444397,-36.39530671,25.18580866,47.91135957,-42.42656918,37.96872864,Gray,Right SMG supramarginal gyrus,Area hIP1 (IPS),R SupraMarginal Gyrus,R IPL,Unknown,lesion,OOB
+RPEA4,A40c_R,45.5071106,-36.39530671,28.38400698,51.79286798,-41.47450768,41.72179436,Gray,Right SMG supramarginal gyrus,Area PFm (IPL),R SupraMarginal Gyrus,R IPL,Right supramarginal gyrus 3 B,lesion,Right supramarginal gyrus 3 B
+RPEA5,A40c_R,49.4989624,-36.39530671,31.18243051,56.0650989,-40.602992,44.99351808,White,Right SMG supramarginal gyrus,Area PFm (IPL),R SupraMarginal Gyrus,R IPL,Right supramarginal gyrus 3 A,lesion,Right supramarginal gyrus 3 A
+RPEA6,A40c_R,53.88999939,-36.39530671,34.78040361,60.84858091,-39.56953648,49.38718614,Unknown,Right SMG supramarginal gyrus,Unknown,R Inferior Parietal Lobule ,R IPL,Right supramarginal gyrus 1 B,lesion,Right supramarginal gyrus 1 B
+RPEP1,Unknown,29.14051819,-44.79422349,18.38963723,33.87807592,-53.2156228,32.00703978,White,Right Cerebral White Matter,Unknown,Unknown,Unknown,Unknown,lesion,OOB
+RPEP2,A39rd_R,31.93481445,-48.39375925,20.38851118,36.89115003,-56.53953783,35.51511931,Gray,Right Cerebral White Matter,Area hIP1 (IPS),R Angular Gyrus,R IPL,Unknown,lesion,OOB
+RPEP3,A39rd_R,34.32992554,-51.99329501,22.78715992,39.46487481,-59.7074162,39.50215209,Gray,Right AnG angular gyrus,Unknown,R Angular Gyrus,R IPL,Right supramarginal gyrus 5 B,lesion,Right supramarginal gyrus 5 B
+RPEP4,A39rd_R,37.1242218,-55.19288236,25.58558345,42.51990013,-62.35120433,43.90065137,Gray,Right AnG angular gyrus,Area PGa (IPL),R Angular Gyrus,R IPL,Unknown,lesion,OOB
+RPEP5,A39rd_R,39.51933289,-59.19236654,27.98423219,45.23539578,-65.96607717,48.10282231,Gray,Right AnG angular gyrus,Area PGp (IPL),R Angular Gyrus,R IPL,Right supramarginal gyrus 5 B,lesion,Right supramarginal gyrus 5 B
+RPEP6,Unknown,42.31362915,-62.39195389,30.78265572,48.48852812,-68.66441859,52.67506982,Unknown,Unknown,Unknown,R Angular Gyrus,Unknown,Unknown,lesion,OOB
